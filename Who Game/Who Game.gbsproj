@@ -4,9 +4,9 @@
         "showConnections": true,
         "startMapId": "cb5e225f-e996-4ca8-b068-09a12ec18b75",
         "startX": 0,
-        "startY": 1,
+        "startY": 0,
         "startDirection": "right",
-        "zoom": 112.48043716698885,
+        "zoom": 170.4472701922059,
         "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
         "playerSpriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
     },
@@ -109,6 +109,46 @@
         {
             "id": "23",
             "name": "speakToNate2"
+        },
+        {
+            "id": "24",
+            "name": "goToCaveOfWishes"
+        },
+        {
+            "id": "25",
+            "name": "talkToMagicCat"
+        },
+        {
+            "id": "26",
+            "name": "takeGenerosity"
+        },
+        {
+            "id": "27",
+            "name": "goToCaveOfTheDeep"
+        },
+        {
+            "id": "28",
+            "name": "takeKindness"
+        },
+        {
+            "id": "29",
+            "name": "goToCaveOfDespair"
+        },
+        {
+            "id": "30",
+            "name": "useSignOne"
+        },
+        {
+            "id": "31",
+            "name": "useSignTwo"
+        },
+        {
+            "id": "33",
+            "name": "useSignThree"
+        },
+        {
+            "id": "32",
+            "name": "goToOtherSide"
         }
     ],
     "backgrounds": [
@@ -120,7 +160,17 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cave.png",
-            "_v": 1571249431485
+            "_v": 1571428419618
+        },
+        {
+            "id": "a34611ec-4349-4e4a-8f05-7e1d90b1a227",
+            "name": "Custom Cave PIT",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "Custom Cave PIT.png",
+            "_v": 1571428419619
         },
         {
             "id": "81394b07-c4d3-4465-b681-cc80e7438e43",
@@ -130,7 +180,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Custom Room Semi Final.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "40720815-7b75-48c0-b622-e976fd3d46dd",
@@ -140,7 +190,7 @@
             "imageWidth": 257,
             "imageHeight": 254,
             "filename": "Game Title_ WHO?.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "b340b9a2-2865-4e05-91c0-148846a693c8",
@@ -150,7 +200,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "house.png",
-            "_v": 1571249431485
+            "_v": 1571428419618
         },
         {
             "id": "48afb86e-5090-4608-ae58-c6976b1c0965",
@@ -160,7 +210,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "LIVING ROOM FINAL.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
@@ -170,7 +220,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "logo.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -180,7 +230,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "menu.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "1b7fa267-d716-40f0-b0d0-f4f966610e07",
@@ -190,7 +240,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "outside.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "40fda058-df90-4205-a239-fe77bce4fa79",
@@ -200,7 +250,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "stars.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "6652be2e-cfb2-4ffb-bb25-06a2c52b872a",
@@ -210,7 +260,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "TITLE_WHO?.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "f047ff0e-58ad-49fc-bd2b-ec84fc1f7ab3",
@@ -220,7 +270,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "titlescreen.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         },
         {
             "id": "f3102db4-2273-411d-b33f-4d6f65959c60",
@@ -230,7 +280,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "underground.png",
-            "_v": 1571249431485
+            "_v": 1571428419619
         }
     ],
     "spriteSheets": [
@@ -240,7 +290,7 @@
             "numFrames": 4.5,
             "type": "animated",
             "filename": "BLANKACTORWHITEFINAL.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
@@ -248,7 +298,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cat.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
@@ -256,7 +306,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "checkbox.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
@@ -264,7 +314,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "dog.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -272,7 +322,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "19054d2f-f699-460e-8053-3579db9feb21",
@@ -280,7 +330,7 @@
             "numFrames": 4.5,
             "type": "animated",
             "filename": "Final BLANK ACTOR.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
@@ -288,7 +338,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "fire.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "09ad70c6-3ce5-4b97-9e96-466221418a45",
@@ -296,7 +346,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "ice.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
@@ -304,7 +354,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc001.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "40dcd163-9f72-4861-8131-b01eb9baa000",
@@ -312,7 +362,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc002.png",
-            "_v": 1571249431488
+            "_v": 1571428419622
         },
         {
             "id": "52ad34df-f245-4b2a-b94c-a82af1002871",
@@ -320,7 +370,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "npc003.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         },
         {
             "id": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
@@ -328,7 +378,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "player.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         },
         {
             "id": "a0442b6a-634f-44da-9962-77938e3ed839",
@@ -336,7 +386,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "radio.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         },
         {
             "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
@@ -344,7 +394,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         },
         {
             "id": "e20ce140-53a5-4b1b-9964-138ba0c86925",
@@ -352,7 +402,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sage.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         },
         {
             "id": "000a6dde-cb60-436e-b357-30a529daa139",
@@ -360,7 +410,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "savepoint.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         },
         {
             "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
@@ -368,7 +418,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "signpost.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         },
         {
             "id": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
@@ -376,7 +426,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "torch.png",
-            "_v": 1571249431489
+            "_v": 1571428419622
         }
     ],
     "scenes": [
@@ -712,8 +762,7 @@
                             "*Yawn*\nGotta go to\nschool.",
                             "Ugh, I'm too good\nfor it.",
                             "I'm better than\neveryone else\nthere. ",
-                            "Why should I go to\na place filled\nwith nobodies.",
-                            "Hardly any cool\npeople..."
+                            "Why should I go to\na place filled\nwith nobodies?"
                         ],
                         "__collapse": false
                     }
@@ -3832,8 +3881,8 @@
             "id": "77ac6ceb-c3c1-43dc-8a2a-fafd4c663685",
             "name": "Scene 17",
             "backgroundId": "40fda058-df90-4205-a239-fe77bce4fa79",
-            "x": 3780.8866028483526,
-            "y": 639.6899234240133,
+            "x": 3784.2694733208536,
+            "y": 720.0330971459173,
             "width": 32,
             "height": 32,
             "actors": [
@@ -3985,10 +4034,10 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "Look around you.\nThe stars sing a\nsong.",
-                            "A song you cannot\nhear.",
-                            "A song you can\nonly hear...",
-                            "... if you open\nyourself to them."
+                            "Look around you.\n",
+                            "The universe is\nbigger than you.",
+                            "It's bigger than\nus.",
+                            "Open\nyourself to them."
                         ]
                     }
                 },
@@ -4005,7 +4054,7 @@
                     "args": {
                         "text": [
                             "You just made it\nfor me. ",
-                            "Realize yourself.\nGrow. Learn.",
+                            "Become better.\nGrow. Learn.",
                             "Now, I know you\nwant to learn how\nto change this.",
                             "To revert this,\ngather the\nEssences...",
                             "The Essences of\nGoodness."
@@ -4074,7 +4123,59 @@
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "5b9b08ff-c7c1-4d9a-9150-1dc6ba50a923",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Do you wish to\ntravel to the Pit\nof Loneliness?"
+                            }
+                        },
+                        {
+                            "id": "8a07c9f4-ad48-442a-ae00-22820aef5407",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "29",
+                                "trueText": "Yes",
+                                "falseText": "No"
+                            }
+                        },
+                        {
+                            "id": "cc67a639-7fa0-4ea5-b8c8-9bf40a469bdd",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "29"
+                            },
+                            "true": [
+                                {
+                                    "id": "c2e0acd0-d068-4b2f-bcdf-b8908d59253e",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "deed8461-9fb2-4aec-bec5-25584745886d",
+                                        "x": 8,
+                                        "y": 16,
+                                        "direction": "up",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "3966a0f7-ae97-4ee1-ab07-059d191e34ff",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "bb15a33e-11cd-42a6-b208-2579745ff7c6",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "381fab4d-7769-4a69-a4bf-16bcdd81e147",
@@ -4084,7 +4185,59 @@
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "540fca65-1093-4094-bc52-a2f200b90b11",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Do you wish to\ntravel to the Cave\nof the Deep?"
+                            }
+                        },
+                        {
+                            "id": "20eb619e-6728-4da8-94dc-86d55e1854f6",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "27",
+                                "trueText": "Yes",
+                                "falseText": "No"
+                            }
+                        },
+                        {
+                            "id": "0ad41a8c-5ab1-4276-91c1-a4d43a706ab8",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "27"
+                            },
+                            "true": [
+                                {
+                                    "id": "2390d717-7b11-46e0-8f4e-309a5ff0d777",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "5c8cd239-7a02-4bd1-9a46-1d1126a0cdf8",
+                                        "x": 9,
+                                        "y": 16,
+                                        "direction": "up",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "533e640b-a652-4435-b629-89a0449b6599",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "58f3b73a-627d-4746-8a64-46c385a070f2",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "6d437cee-c712-40c3-a91e-cf2a33bb30e3",
@@ -4094,7 +4247,59 @@
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "19ee7290-620c-4016-b824-b00c3921b66e",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Do you wish to\ntravel to the \nCave of Wishes?"
+                            }
+                        },
+                        {
+                            "id": "9d3bfcd1-cf8b-43ed-9b12-d8ed9462e1c9",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "24",
+                                "trueText": "Yes",
+                                "falseText": "No"
+                            }
+                        },
+                        {
+                            "id": "07f96233-de45-49f3-9117-b099684b9887",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "24"
+                            },
+                            "true": [
+                                {
+                                    "id": "958b586b-d737-4777-8f97-33b4efdfe188",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "2a7ee706-a4f6-4a65-9a34-1acd17a6656a",
+                                        "x": 21,
+                                        "y": 29,
+                                        "direction": "up",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "9b42ccec-cbd7-407c-83cd-0d16cef4bbb5",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "8d0ee92e-c296-4347-9fa0-4fceff5c38d8",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "fd374321-c563-4f74-8b9a-1ffad3b78f5b",
@@ -4106,6 +4311,38 @@
                     "moveSpeed": "1",
                     "animSpeed": "3",
                     "script": [
+                        {
+                            "id": "28e27fe1-ca0d-4dc4-b316-4b0206f0e1b5",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "26"
+                            },
+                            "true": [
+                                {
+                                    "id": "c191805c-b557-480a-9f0c-372e204c844a",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Ah, I see you\nfound the Essence\nof Generosity.",
+                                            "I bet you feel\nmore giving now.",
+                                            "Good...",
+                                            "That may have been\neasy, but\nattaining...",
+                                            "... the others is\nchallenging."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "45079e28-e364-4413-9d3c-b8c7988ae01e",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "07826bbe-6208-4317-9ad6-37258db8ddc0",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
                         {
                             "id": "bcb8ad3c-d70a-4404-8235-dc0ec62db7bf",
                             "command": "EVENT_SET_TRUE",
@@ -4287,8 +4524,8 @@
             "id": "f52ce449-4a00-4b93-8393-97659d32cf5a",
             "name": "Scene 19",
             "backgroundId": "1b7fa267-d716-40f0-b0d0-f4f966610e07",
-            "x": 4059.585193996413,
-            "y": 689.7122721577589,
+            "x": 4062.122346850789,
+            "y": 745.5296349540291,
             "width": 32,
             "height": 32,
             "actors": [
@@ -4520,6 +4757,1020 @@
                 0,
                 0
             ]
+        },
+        {
+            "id": "2a7ee706-a4f6-4a65-9a34-1acd17a6656a",
+            "name": "Scene 20",
+            "backgroundId": "f3102db4-2273-411d-b33f-4d6f65959c60",
+            "x": 4208.234215775459,
+            "y": 30,
+            "width": 32,
+            "height": 32,
+            "actors": [
+                {
+                    "id": "b1fb8d00-cde7-4d3c-bcce-97c79eb233b4",
+                    "spriteSheetId": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
+                    "x": 15,
+                    "y": 10,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "d18beeb9-704f-40b8-9b61-4b07d3b09e98",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "This is the\nEssence of\nGenerosity.",
+                                    "Those who touch\nthis will have\ntheir...",
+                                    "...soul reached\ninto and feel\nbenevolence.",
+                                    "Take it and become\nbetter."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "a3581ac0-5b70-4960-a86c-3b79a6bd7a12",
+                            "command": "EVENT_ACTOR_HIDE",
+                            "args": {
+                                "actorId": "b1fb8d00-cde7-4d3c-bcce-97c79eb233b4"
+                            }
+                        },
+                        {
+                            "id": "8d51a668-36dc-4782-819b-1662e2570c6e",
+                            "command": "EVENT_FADE_OUT",
+                            "args": {
+                                "speed": "3"
+                            }
+                        },
+                        {
+                            "id": "b09fe37c-5a2a-4586-9255-d86cf3542e63",
+                            "command": "EVENT_FADE_IN",
+                            "args": {
+                                "speed": "3"
+                            }
+                        },
+                        {
+                            "id": "e5418d3b-ad40-40bd-9202-7044c01306c3",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Whoa. I feel...\nmore giving. ",
+                                    "I could use my\nmoney to help\nothers.",
+                                    "I'll remember that\nlater.",
+                                    "Also, wow. That\nwas easy."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "5db57d04-5357-462c-8b3d-10f2860aea4f",
+                            "command": "EVENT_SET_TRUE",
+                            "args": {
+                                "variable": "26"
+                            }
+                        },
+                        {
+                            "id": "eb865b62-dad9-4cc5-8c92-416b52b64aaa",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "You have the\nEssence of\nGenerosity!"
+                            }
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "f0440bbd-8866-4a61-a689-e6dcbeb42ef3",
+                    "spriteSheetId": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
+                    "x": 4,
+                    "y": 24,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "ba60f374-b750-4fdf-8396-dbf6b115833b",
+                            "command": "EVENT_SET_TRUE",
+                            "args": {
+                                "variable": "25"
+                            }
+                        },
+                        {
+                            "id": "41f83ee6-d28a-4dd6-889d-d85b2b874954",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Yo."
+                            }
+                        },
+                        {
+                            "id": "59bb4bbb-828e-4763-aedf-e10e2a0ff8b6",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "WHAT? A TALKING\nCAT?"
+                            }
+                        },
+                        {
+                            "id": "a43f95aa-d2f8-4fd6-8eae-724cd306c1ef",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "I am a normal\ncat, thank you\nvery much."
+                            }
+                        },
+                        {
+                            "id": "e6c31918-c7ff-406f-8ee4-b9809643a521",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "But you're\ntalking!"
+                            }
+                        },
+                        {
+                            "id": "cf378cfc-19af-421d-b141-af56c4168afa",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "The laws of\nreality work\ndifferently here",
+                                    "I've always been\ntalking. It's just\nthat now...",
+                                    "... you can\nunderstand me."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "8b8abf9e-7593-47f3-9b2e-7f170fe00dc6",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Whoa..."
+                            }
+                        },
+                        {
+                            "id": "980b21a4-4b21-4bbb-a408-5ed4f671a9b5",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Now, if you'll\nexcuse me, I must\nget back to...",
+                                    "... cleaning\nmyself. It's very\nserious business"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "f5ef71eb-d19c-4a3a-b6b8-850e55b526ea",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "25"
+                            },
+                            "true": [
+                                {
+                                    "id": "b7c97190-b883-4987-8d16-fc29a3ac70ce",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Oh, hello again.\nDo you wish to\nclean me?"
+                                    }
+                                },
+                                {
+                                    "id": "301ee4b9-08f7-456b-a098-5b480af8192c",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "b2a6f303-cc02-4264-a087-b170a51e0607",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "triggers": [
+                {
+                    "id": "41a5b09f-a5fa-4ee6-97d0-0b0f8449b017",
+                    "x": 21,
+                    "y": 31,
+                    "width": 2,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "75de59de-eff9-4649-9777-e2dd67e2417f",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "I need to get the\nEssence of\nGenerosity."
+                            }
+                        },
+                        {
+                            "id": "d0e1a23b-d8da-44f0-8067-27af2fcc2a18",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "26"
+                            },
+                            "true": [
+                                {
+                                    "id": "7a58ff0b-ceb0-4fa0-adc2-39b2d131548c",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "376f94f4-68b6-48f8-8b0f-410e31768184",
+                                        "x": 14,
+                                        "y": 7,
+                                        "direction": "up",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "74af456e-79b8-47ea-bc23-5e064aa30198",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "e0af2f80-a533-42d9-94ce-8c3a208f4688",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8,
+                0,
+                128,
+                7,
+                248,
+                255,
+                255,
+                31,
+                8,
+                0,
+                0,
+                16,
+                8,
+                0,
+                0,
+                16,
+                8,
+                0,
+                0,
+                16,
+                8,
+                0,
+                0,
+                16,
+                8,
+                0,
+                0,
+                16,
+                8,
+                0,
+                0,
+                16,
+                8,
+                0,
+                0,
+                16,
+                12,
+                0,
+                0,
+                16,
+                12,
+                0,
+                0,
+                16,
+                12,
+                0,
+                0,
+                16,
+                12,
+                0,
+                0,
+                16,
+                252,
+                255,
+                255,
+                28,
+                252,
+                255,
+                255,
+                60,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                158,
+                7,
+                0,
+                128,
+                159,
+                7,
+                0,
+                128,
+                7,
+                6,
+                0,
+                128,
+                7,
+                54,
+                0,
+                128,
+                7,
+                54,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                54,
+                0,
+                0,
+                6,
+                54,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "script": [
+                {
+                    "id": "6082603f-51fe-4e4b-963c-aaba415d70cb",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Here is where you\nwill find...",
+                            "the Essence of\nGenerosity.",
+                            "Generosity is\nsomething you need\nto learn.",
+                            "You worship\nwealth.",
+                            "\"The love of money\nis the root of all\nevil.\"",
+                            "You are evil.\nChange that.",
+                            "Become better."
+                        ],
+                        "__collapse": false
+                    }
+                },
+                {
+                    "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                    "command": "EVENT_END"
+                }
+            ]
+        },
+        {
+            "id": "5c8cd239-7a02-4bd1-9a46-1d1126a0cdf8",
+            "name": "Scene 21",
+            "backgroundId": "6fad1892-bcb2-4924-bd1c-1e4d03dfeabb",
+            "x": 3758.009078637202,
+            "y": 32.027827534819565,
+            "width": 20,
+            "height": 18,
+            "actors": [
+                {
+                    "id": "fe2fb51e-7281-410d-8e20-1b72be5bfd56",
+                    "spriteSheetId": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
+                    "x": 5,
+                    "y": 15,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "97535ec8-04cf-4ef5-8193-980d55eb6529",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "This is the\nEssence of\nKindness.",
+                                    "Kindness is not\nonly a gift,\nbut...",
+                                    "... it is also a\ntool.",
+                                    "A tool to bring\nnot only people\ntogether...",
+                                    "... but\ncivilizations as\nwell.",
+                                    "It's a shame many\npeople don't\nrealize.",
+                                    "Go out. Be the\nchange the world\nneeds.",
+                                    "Be the difference.",
+                                    "Become better."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "0a4efef2-6aaa-4951-8ebf-ef75e365735e",
+                            "command": "EVENT_SET_TRUE",
+                            "args": {
+                                "variable": "28"
+                            }
+                        },
+                        {
+                            "id": "3f53b3b8-a1cc-4e2f-9719-acf5fb43b1ae",
+                            "command": "EVENT_ACTOR_HIDE",
+                            "args": {
+                                "actorId": "fe2fb51e-7281-410d-8e20-1b72be5bfd56"
+                            }
+                        },
+                        {
+                            "id": "bd568c0c-46cd-430d-827a-2c0321d0bad2",
+                            "command": "EVENT_FADE_OUT",
+                            "args": {
+                                "speed": "3"
+                            }
+                        },
+                        {
+                            "id": "b672a158-a665-47d4-a0f0-a10d62147345",
+                            "command": "EVENT_FADE_IN",
+                            "args": {
+                                "speed": "3"
+                            }
+                        },
+                        {
+                            "id": "7bd75a4b-6b33-40c2-9fee-c26875f47af9",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I feel... more\nkind. ",
+                                    "Wow, I've been a\nreal jerk to\neveryone...",
+                                    "Even those who do\ngood for me.",
+                                    "What kind of a\nperson am I?"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "ba82282f-ef54-4174-b555-b38ba8c33ad8",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "You have the\nEssence of\nKindness!"
+                            }
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "triggers": [
+                {
+                    "id": "f01bae3f-6918-4a9f-ae56-b1b869619bb5",
+                    "x": 9,
+                    "y": 17,
+                    "width": 2,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "662cd09c-0bcf-4f6a-a74c-15a4ced576d0",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "28"
+                            },
+                            "true": [
+                                {
+                                    "id": "65724cf3-ec85-4752-bc28-bf7a0f43a6cd",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "376f94f4-68b6-48f8-8b0f-410e31768184",
+                                        "x": 3,
+                                        "y": 7,
+                                        "direction": "up",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "37c8f4be-4869-4e58-a337-79d283695f3d",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "6083ceb3-c9ca-4af4-8fb8-dbadbd541952",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "I need to get the\nEssence of\nKindness."
+                                    }
+                                },
+                                {
+                                    "id": "9b1a1114-9901-41bf-8b8c-b614fc2845e5",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "b78e7925-8a48-4b47-90b0-0c1a0f79e957",
+                    "x": 8,
+                    "y": 14,
+                    "width": 1,
+                    "height": 2,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "cdbab7af-c80b-4fc9-9bbb-43c53655345b",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "What the heck! Why\ncan't I go past?",
+                                    "There's NOTHING\nthere! What's even\nblocking me?",
+                                    "Maybe if I go the\nother way?"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                224,
+                255,
+                127,
+                2,
+                0,
+                36,
+                0,
+                64,
+                254,
+                255,
+                231,
+                255,
+                127,
+                126,
+                0,
+                36,
+                224,
+                79,
+                114,
+                2,
+                36,
+                39,
+                64,
+                114,
+                242,
+                39,
+                39,
+                64,
+                114,
+                254,
+                36,
+                255,
+                76,
+                130,
+                0,
+                36,
+                136,
+                64,
+                254,
+                249,
+                7,
+                0,
+                0
+            ],
+            "script": [
+                {
+                    "id": "424eaade-0764-4a6d-bd8b-0f461710fd60",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Here you will find\nthe Essence of\nKindness.",
+                            "Kindness is\nsomething you\nlack.",
+                            "You only think for\nyourself. Reach\nout. ",
+                            "Everyone deserves\nkindness. Even\nthose...",
+                            "... \"not worthy\". ",
+                            "Such as yourself.",
+                            "Change that.\nBecome better."
+                        ]
+                    }
+                },
+                {
+                    "id": "426a4a01-ac14-41ab-a5c0-e16bbb440c07",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "Hmm, it's right\nthere. Seems easy\nenough."
+                    }
+                },
+                {
+                    "id": "17614d9b-b548-483c-97eb-84d2853da6c4",
+                    "command": "EVENT_END"
+                }
+            ]
+        },
+        {
+            "id": "deed8461-9fb2-4aec-bec5-25584745886d",
+            "name": "Scene 22",
+            "backgroundId": "a34611ec-4349-4e4a-8f05-7e1d90b1a227",
+            "x": 3692.1064810720054,
+            "y": 229.7385524670043,
+            "width": 20,
+            "height": 18,
+            "actors": [
+                {
+                    "id": "a9bd021e-b6b1-4791-a5ea-43c92b485718",
+                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+                    "x": 17,
+                    "y": 1,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "c77622dc-a1d0-40a7-9892-7ff9017883b1",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "376f94f4-68b6-48f8-8b0f-410e31768184",
+                                "x": 3,
+                                "y": 12,
+                                "direction": "up",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "5d1ce54c-5b69-40a5-99ff-9a5d3f5564b7",
+                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+                    "x": 14,
+                    "y": 11,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "9230ccfd-94a0-4e79-951e-47f1f38853e8",
+                            "command": "EVENT_SET_TRUE",
+                            "args": {
+                                "variable": "33"
+                            }
+                        },
+                        {
+                            "id": "60f60342-ca60-4acf-b457-2288af8e65b5",
+                            "command": "EVENT_VARIABLE_MATH",
+                            "args": {
+                                "vectorX": "32",
+                                "operation": "div",
+                                "other": "val",
+                                "vectorY": "33",
+                                "value": 2,
+                                "minValue": "0",
+                                "maxValue": "255"
+                            }
+                        },
+                        {
+                            "id": "4981b598-c394-4e74-add1-801fe4acf3d1",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "You have divided\nby 2."
+                            }
+                        },
+                        {
+                            "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "953c113b-df29-450a-b984-7ead490f923c",
+                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+                    "x": 9,
+                    "y": 11,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "91b6139c-25ac-4f4d-bbff-0002b66e0ad6",
+                            "command": "EVENT_SET_TRUE",
+                            "args": {
+                                "variable": "31"
+                            }
+                        },
+                        {
+                            "id": "889177cd-5ea7-4aaf-a9d6-daa1c423a4c7",
+                            "command": "EVENT_VARIABLE_MATH",
+                            "args": {
+                                "vectorX": "32",
+                                "operation": "mul",
+                                "other": "val",
+                                "vectorY": "33",
+                                "value": 4,
+                                "minValue": "0",
+                                "maxValue": "255"
+                            }
+                        },
+                        {
+                            "id": "ce7a62d7-4dac-46b2-b095-453a0a5f23dd",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "You have\nmultiplied by 4."
+                            }
+                        },
+                        {
+                            "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "1ba22284-4621-4f7d-87be-f608b0723f84",
+                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+                    "x": 4,
+                    "y": 11,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "0ee99588-0d77-47cc-959c-cc56b67baba7",
+                            "command": "EVENT_SET_TRUE",
+                            "args": {
+                                "variable": "30"
+                            }
+                        },
+                        {
+                            "id": "416d012d-54c1-4d08-842d-e97dbfa56e02",
+                            "command": "EVENT_VARIABLE_MATH",
+                            "args": {
+                                "vectorX": "32",
+                                "operation": "set",
+                                "other": "val",
+                                "vectorY": "33",
+                                "value": 5,
+                                "minValue": "0",
+                                "maxValue": "255"
+                            }
+                        },
+                        {
+                            "id": "c17d814a-9851-4764-88f6-2055a9550289",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "You have 5."
+                            }
+                        },
+                        {
+                            "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "22df574e-2f9d-4cbe-9536-1fffe9f741f7",
+                    "spriteSheetId": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
+                    "x": 9,
+                    "y": 3,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "7c330825-5ad4-45be-855f-a2d85603d5b5",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "This is the\nEssence of\nEmpathy.",
+                                    "Those who touch\nthis will care\nmore for...",
+                                    "... others.\nEmpathy is\nimportant.",
+                                    "Even if we can't\nrelate to others,\nthat doesn't...",
+                                    "... mean we can't\ncare about how\nthey feel."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "5d83ab78-242f-4a34-8ca0-7f5471e534f0",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Wow, I feel\nmore...\nempathetic.",
+                                    "Oh my... I\nshouldn't have\nyelled...",
+                                    "... at that\nhomeless man. He\nprobably...",
+                                    "... already felt\nterrible. \n*sniffle*",
+                                    "What? I'm...\ncrying?"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "f5ac94bb-d709-4009-8f82-d58eb7a2786c",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "You have the\nEssence of\nEmpathy!",
+                                    "Use the sign to\nreturn to the hub."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "ac63e224-ff11-47a9-8204-d8ca6a7deb6b",
+                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
+                    "x": 5,
+                    "y": 14,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "296bcccb-2a20-48d7-bde0-0805d570c1a4",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "DANGER\nBOTTOMLESS PIT!"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "cf876dc7-398f-4082-b879-1cb439e8988e",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Oh dang, I\nshouldn't jump in."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "115a819a-3753-4457-9288-aa89a4631035",
+                            "command": "EVENT_IF_VALUE",
+                            "args": {
+                                "variable": "32",
+                                "operator": "==",
+                                "comparator": 10
+                            },
+                            "true": [
+                                {
+                                    "id": "bee866e9-8562-449b-b8e1-91271af15d35",
+                                    "command": "EVENT_ACTOR_HIDE",
+                                    "args": {
+                                        "actorId": "player"
+                                    }
+                                },
+                                {
+                                    "id": "762a0643-bc68-43f6-bebb-979beaa8a8e1",
+                                    "command": "EVENT_ACTOR_MOVE_TO",
+                                    "args": {
+                                        "actorId": "player",
+                                        "x": 9,
+                                        "y": 5
+                                    }
+                                },
+                                {
+                                    "id": "aa8d46a0-7509-4bb3-9b5d-4e59c02ed88f",
+                                    "command": "EVENT_ACTOR_SHOW",
+                                    "args": {
+                                        "actorId": "player"
+                                    }
+                                },
+                                {
+                                    "id": "76c19da1-1d59-47dd-a0bb-cf5824da4a00",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "WHOA! WHAT THE\nHECK?",
+                                            "Well, here's the\nEssence."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "15ddfee8-ab0b-4497-81bf-404a46d33013",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "709963e2-f32d-4d13-a701-17c5857ab03f",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                255,
+                255,
+                15,
+                0,
+                0,
+                0,
+                0,
+                240,
+                255,
+                255,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "script": [
+                {
+                    "id": "18530e1a-6ca3-4df7-8b88-3e56db381a59",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Here, you will\nfind the Essence\nof Empathy.",
+                            "Empathy is another\nthing you lack. ",
+                            "Your lack of care\nhas made you a\nshell...",
+                            "... of a human.",
+                            "Change that.\nBecome better."
+                        ]
+                    }
+                },
+                {
+                    "id": "164fb1eb-650d-4aed-b40e-659f3b3d5b19",
+                    "command": "EVENT_END"
+                }
+            ]
         }
     ],
     "music": [
@@ -4527,7 +5778,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1571249431490
+            "_v": 1571428419623
         }
     ]
 }
