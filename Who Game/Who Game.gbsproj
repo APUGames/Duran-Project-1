@@ -3,11 +3,11 @@
         "showCollisions": true,
         "showConnections": true,
         "startMapId": "cb5e225f-e996-4ca8-b068-09a12ec18b75",
-        "startX": 0,
-        "startY": 0,
+        "startX": 17,
+        "startY": 16,
         "startDirection": "right",
         "zoom": 108.2182955890894,
-        "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
+        "startSceneId": "a44d3148-8f5f-4d62-9fe7-6b2372a0e8d1",
         "playerSpriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
     },
     "_version": "1.1.0",
@@ -312,7 +312,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cave.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "a34611ec-4349-4e4a-8f05-7e1d90b1a227",
@@ -322,7 +322,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Custom Cave PIT.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "cff320dc-c6c2-4fd6-97ce-fff8d6f3db0c",
@@ -332,7 +332,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Custom ROOM 3.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "81394b07-c4d3-4465-b681-cc80e7438e43",
@@ -342,7 +342,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Custom Room Semi Final.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "48a0ec9d-84ff-40c9-9ec1-c6621c095660",
@@ -352,7 +352,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "customLogo.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "ee7b73a3-980b-40a6-b075-a941b9dff6c0",
@@ -362,7 +362,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "customLogoFinal.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "351c5074-4aa6-4110-8c4d-693efeb5888e",
@@ -372,7 +372,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "customRoom4.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "22556c9e-6285-4068-b453-de137beb6181",
@@ -382,7 +382,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "endCard.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "40720815-7b75-48c0-b622-e976fd3d46dd",
@@ -392,7 +392,7 @@
             "imageWidth": 257,
             "imageHeight": 254,
             "filename": "Game Title_ WHO?.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "b6a727e1-5b13-4196-8147-93cad9f27936",
@@ -402,7 +402,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hallway.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "b340b9a2-2865-4e05-91c0-148846a693c8",
@@ -412,7 +412,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "house.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "93b0ae81-3951-437c-b73e-bbb4b4af0cd6",
@@ -422,7 +422,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "lastCave.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "48afb86e-5090-4608-ae58-c6976b1c0965",
@@ -432,7 +432,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "LIVING ROOM FINAL.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
@@ -442,7 +442,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "logo.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "3929466c-9077-4253-a966-e0e5d42d0de5",
@@ -452,7 +452,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "masterRoom.png",
-            "_v": 1572011420338
+            "_v": 1572029361633
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -462,7 +462,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "menu.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "84d3ddec-41b2-4a84-867b-879a7c959ca2",
@@ -472,7 +472,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "moon.png",
-            "_v": 1572011420338
+            "_v": 1572029361633
         },
         {
             "id": "1b7fa267-d716-40f0-b0d0-f4f966610e07",
@@ -482,7 +482,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "outside.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "40fda058-df90-4205-a239-fe77bce4fa79",
@@ -492,7 +492,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "stars.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         },
         {
             "id": "6652be2e-cfb2-4ffb-bb25-06a2c52b872a",
@@ -502,7 +502,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "TITLE_WHO?.png",
-            "_v": 1572011420338
+            "_v": 1572029361633
         },
         {
             "id": "f047ff0e-58ad-49fc-bd2b-ec84fc1f7ab3",
@@ -512,7 +512,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "titlescreen.png",
-            "_v": 1572011420338
+            "_v": 1572029361633
         },
         {
             "id": "f3102db4-2273-411d-b33f-4d6f65959c60",
@@ -522,7 +522,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "underground.png",
-            "_v": 1572011420337
+            "_v": 1572029361633
         }
     ],
     "spriteSheets": [
@@ -532,7 +532,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "animatedStar.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "14bd2bd9-f3af-4cc2-aa82-fb52883c35ed",
@@ -540,7 +540,7 @@
             "numFrames": 2.25,
             "type": "animated",
             "filename": "animatedStar2.png",
-            "_v": 1572011420349
+            "_v": 1572029361639
         },
         {
             "id": "9e91fea8-b2f2-4efc-82b7-66a67ea2938e",
@@ -548,7 +548,7 @@
             "numFrames": 4.5,
             "type": "animated",
             "filename": "BLANKACTORWHITEFINAL.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
@@ -556,7 +556,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cat.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
@@ -564,7 +564,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "checkbox.png",
-            "_v": 1572011420349
+            "_v": 1572029361639
         },
         {
             "id": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
@@ -572,7 +572,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "dog.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -580,7 +580,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "19054d2f-f699-460e-8053-3579db9feb21",
@@ -588,7 +588,7 @@
             "numFrames": 4.5,
             "type": "animated",
             "filename": "Final BLANK ACTOR.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
@@ -596,7 +596,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "fire.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "09ad70c6-3ce5-4b97-9e96-466221418a45",
@@ -604,7 +604,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "ice.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
@@ -612,7 +612,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc001.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "40dcd163-9f72-4861-8131-b01eb9baa000",
@@ -620,7 +620,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc002.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "52ad34df-f245-4b2a-b94c-a82af1002871",
@@ -628,7 +628,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "npc003.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "4ceb1254-5783-447d-9318-82847cd84f95",
@@ -636,7 +636,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npcCustom1.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
@@ -644,7 +644,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "player.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "ed192d9a-4c2e-4ac3-9a95-c6db39012cb7",
@@ -652,7 +652,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "portalOne.png",
-            "_v": 1572011420351
+            "_v": 1572029361639
         },
         {
             "id": "3e6ecd83-cbe2-4071-963f-933daddc27e8",
@@ -660,7 +660,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "portalTwo.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "a0442b6a-634f-44da-9962-77938e3ed839",
@@ -668,7 +668,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "radio.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
@@ -676,7 +676,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "e20ce140-53a5-4b1b-9964-138ba0c86925",
@@ -684,7 +684,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sage.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "000a6dde-cb60-436e-b357-30a529daa139",
@@ -692,7 +692,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "savepoint.png",
-            "_v": 1572011420350
+            "_v": 1572029361639
         },
         {
             "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
@@ -700,7 +700,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "signpost.png",
-            "_v": 1572011420351
+            "_v": 1572029361639
         },
         {
             "id": "c4b2e438-2cc5-472f-a240-2dde03ad813e",
@@ -708,7 +708,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "star.png",
-            "_v": 1572011420351
+            "_v": 1572029361639
         },
         {
             "id": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
@@ -716,7 +716,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "torch.png",
-            "_v": 1572011420351
+            "_v": 1572029361639
         }
     ],
     "scenes": [
@@ -8992,7 +8992,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "This is where the\nmasters of the\nuniverse reside.",
+                            "This is where the\nChosen reside.",
                             "From here, they do\nimportant things\nto keep the...",
                             "... universe in\ncheck.",
                             "I'm about to talk\nto the head of the\nChosen.",
@@ -11124,7 +11124,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1572011420353
+            "_v": 1572029361640
         }
     ]
 }
