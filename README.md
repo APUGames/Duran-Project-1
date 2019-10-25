@@ -1,1 +1,2 @@
-Duran Project 1
+Who?
+This game is made by Christian Duran!
