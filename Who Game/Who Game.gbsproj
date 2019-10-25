@@ -3,11 +3,11 @@
         "showCollisions": true,
         "showConnections": true,
         "startMapId": "cb5e225f-e996-4ca8-b068-09a12ec18b75",
-        "startX": 9,
-        "startY": 12,
+        "startX": 10,
+        "startY": 21,
         "startDirection": "right",
-        "zoom": 163.71722875535488,
-        "startSceneId": "376f94f4-68b6-48f8-8b0f-410e31768184",
+        "zoom": 140.5560708642006,
+        "startSceneId": "1decc9a2-395f-49c0-bdd0-b5a05c4414ef",
         "playerSpriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
     },
     "_version": "1.1.0",
@@ -219,16 +219,80 @@
             "name": "learnAboutMan7"
         },
         {
-            "id": "52",
-            "name": "learnAboutMan8"
-        },
-        {
             "id": "53",
             "name": "learnAboutMan9"
         },
         {
             "id": "29",
             "name": "goToPitofLoneliness"
+        },
+        {
+            "id": "54",
+            "name": "gardenerQuestion1"
+        },
+        {
+            "id": "55",
+            "name": "gardenerQuestion2"
+        },
+        {
+            "id": "56",
+            "name": "petSpaceDog"
+        },
+        {
+            "id": "57",
+            "name": "armoryQuestion1"
+        },
+        {
+            "id": "58",
+            "name": "armoryQuestion2"
+        },
+        {
+            "id": "59",
+            "name": "armoryQuestion3"
+        },
+        {
+            "id": "60",
+            "name": "classQuestion1"
+        },
+        {
+            "id": "61",
+            "name": "bruh"
+        },
+        {
+            "id": "62",
+            "name": "hearFile"
+        },
+        {
+            "id": "64",
+            "name": "test1"
+        },
+        {
+            "id": "52",
+            "name": "learnAboutMan8"
+        },
+        {
+            "id": "65",
+            "name": "moveMan"
+        },
+        {
+            "id": "63",
+            "name": "seeHighest"
+        },
+        {
+            "id": "66",
+            "name": "listenToStory"
+        },
+        {
+            "id": "67",
+            "name": "askJeff"
+        },
+        {
+            "id": "68",
+            "name": "jeffCompliment"
+        },
+        {
+            "id": "69",
+            "name": "byeJeff"
         }
     ],
     "backgrounds": [
@@ -240,7 +304,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cave.png",
-            "_v": 1571718735700
+            "_v": 1571998965632
         },
         {
             "id": "a34611ec-4349-4e4a-8f05-7e1d90b1a227",
@@ -250,7 +314,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Custom Cave PIT.png",
-            "_v": 1571718735700
+            "_v": 1571998965632
         },
         {
             "id": "cff320dc-c6c2-4fd6-97ce-fff8d6f3db0c",
@@ -260,7 +324,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Custom ROOM 3.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "81394b07-c4d3-4465-b681-cc80e7438e43",
@@ -270,7 +334,27 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Custom Room Semi Final.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
+        },
+        {
+            "id": "48a0ec9d-84ff-40c9-9ec1-c6621c095660",
+            "name": "customLogo",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "customLogo.png",
+            "_v": 1571998965632
+        },
+        {
+            "id": "ee7b73a3-980b-40a6-b075-a941b9dff6c0",
+            "name": "customLogoFinal",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "customLogoFinal.png",
+            "_v": 1571998965632
         },
         {
             "id": "351c5074-4aa6-4110-8c4d-693efeb5888e",
@@ -280,7 +364,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "customRoom4.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "40720815-7b75-48c0-b622-e976fd3d46dd",
@@ -290,7 +374,7 @@
             "imageWidth": 257,
             "imageHeight": 254,
             "filename": "Game Title_ WHO?.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "b340b9a2-2865-4e05-91c0-148846a693c8",
@@ -300,7 +384,17 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "house.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
+        },
+        {
+            "id": "93b0ae81-3951-437c-b73e-bbb4b4af0cd6",
+            "name": "lastCave",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "lastCave.png",
+            "_v": 1571998965632
         },
         {
             "id": "48afb86e-5090-4608-ae58-c6976b1c0965",
@@ -310,7 +404,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "LIVING ROOM FINAL.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
@@ -320,7 +414,17 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "logo.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
+        },
+        {
+            "id": "3929466c-9077-4253-a966-e0e5d42d0de5",
+            "name": "masterRoom",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "masterRoom.png",
+            "_v": 1571998965632
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -330,7 +434,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "menu.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "1b7fa267-d716-40f0-b0d0-f4f966610e07",
@@ -340,7 +444,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "outside.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "40fda058-df90-4205-a239-fe77bce4fa79",
@@ -350,7 +454,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "stars.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "6652be2e-cfb2-4ffb-bb25-06a2c52b872a",
@@ -360,7 +464,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "TITLE_WHO?.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "f047ff0e-58ad-49fc-bd2b-ec84fc1f7ab3",
@@ -370,7 +474,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "titlescreen.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         },
         {
             "id": "f3102db4-2273-411d-b33f-4d6f65959c60",
@@ -380,17 +484,33 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "underground.png",
-            "_v": 1571718735701
+            "_v": 1571998965632
         }
     ],
     "spriteSheets": [
+        {
+            "id": "1c108e46-3f87-4213-b786-2b2c816c71c8",
+            "name": "animatedStar",
+            "numFrames": 3,
+            "type": "actor",
+            "filename": "animatedStar.png",
+            "_v": 1571998965641
+        },
+        {
+            "id": "14bd2bd9-f3af-4cc2-aa82-fb52883c35ed",
+            "name": "animatedStar2",
+            "numFrames": 2.25,
+            "type": "animated",
+            "filename": "animatedStar2.png",
+            "_v": 1571998965641
+        },
         {
             "id": "9e91fea8-b2f2-4efc-82b7-66a67ea2938e",
             "name": "BLANKACTORWHITEFINAL",
             "numFrames": 4.5,
             "type": "animated",
             "filename": "BLANKACTORWHITEFINAL.png",
-            "_v": 1571718735705
+            "_v": 1571998965641
         },
         {
             "id": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
@@ -398,7 +518,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cat.png",
-            "_v": 1571718735705
+            "_v": 1571998965641
         },
         {
             "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
@@ -406,7 +526,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "checkbox.png",
-            "_v": 1571718735704
+            "_v": 1571998965641
         },
         {
             "id": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
@@ -414,7 +534,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "dog.png",
-            "_v": 1571718735705
+            "_v": 1571998965641
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -422,7 +542,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
         },
         {
             "id": "19054d2f-f699-460e-8053-3579db9feb21",
@@ -430,7 +550,7 @@
             "numFrames": 4.5,
             "type": "animated",
             "filename": "Final BLANK ACTOR.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
         },
         {
             "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
@@ -438,7 +558,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "fire.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
         },
         {
             "id": "09ad70c6-3ce5-4b97-9e96-466221418a45",
@@ -446,7 +566,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "ice.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
         },
         {
             "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
@@ -454,7 +574,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc001.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
         },
         {
             "id": "40dcd163-9f72-4861-8131-b01eb9baa000",
@@ -462,7 +582,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc002.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
         },
         {
             "id": "52ad34df-f245-4b2a-b94c-a82af1002871",
@@ -470,7 +590,15 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "npc003.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
+        },
+        {
+            "id": "4ceb1254-5783-447d-9318-82847cd84f95",
+            "name": "npcCustom1",
+            "numFrames": 3,
+            "type": "actor",
+            "filename": "npcCustom1.png",
+            "_v": 1571998965641
         },
         {
             "id": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
@@ -478,7 +606,23 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "player.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
+        },
+        {
+            "id": "ed192d9a-4c2e-4ac3-9a95-c6db39012cb7",
+            "name": "portalOne",
+            "numFrames": 3,
+            "type": "actor",
+            "filename": "portalOne.png",
+            "_v": 1571998965642
+        },
+        {
+            "id": "3e6ecd83-cbe2-4071-963f-933daddc27e8",
+            "name": "portalTwo",
+            "numFrames": 4,
+            "type": "animated",
+            "filename": "portalTwo.png",
+            "_v": 1571998965642
         },
         {
             "id": "a0442b6a-634f-44da-9962-77938e3ed839",
@@ -486,7 +630,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "radio.png",
-            "_v": 1571718735706
+            "_v": 1571998965641
         },
         {
             "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
@@ -494,7 +638,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock.png",
-            "_v": 1571718735706
+            "_v": 1571998965642
         },
         {
             "id": "e20ce140-53a5-4b1b-9964-138ba0c86925",
@@ -502,7 +646,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sage.png",
-            "_v": 1571718735706
+            "_v": 1571998965642
         },
         {
             "id": "000a6dde-cb60-436e-b357-30a529daa139",
@@ -510,7 +654,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "savepoint.png",
-            "_v": 1571718735706
+            "_v": 1571998965642
         },
         {
             "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
@@ -518,7 +662,15 @@
             "numFrames": 1,
             "type": "static",
             "filename": "signpost.png",
-            "_v": 1571718735706
+            "_v": 1571998965642
+        },
+        {
+            "id": "c4b2e438-2cc5-472f-a240-2dde03ad813e",
+            "name": "star",
+            "numFrames": 1,
+            "type": "static",
+            "filename": "star.png",
+            "_v": 1571998965642
         },
         {
             "id": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
@@ -526,16 +678,16 @@
             "numFrames": 1,
             "type": "static",
             "filename": "torch.png",
-            "_v": 1571718735706
+            "_v": 1571998965642
         }
     ],
     "scenes": [
         {
             "id": "382961a1-e615-4b92-92a7-f1a791b50b7a",
             "name": "Logo",
-            "backgroundId": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
+            "backgroundId": "ee7b73a3-980b-40a6-b075-a941b9dff6c0",
             "x": 111,
-            "y": 264,
+            "y": 204.75150139210547,
             "width": 20,
             "height": 18,
             "actors": [],
@@ -3356,7 +3508,7 @@
                 {
                     "id": "7ab0a3f2-5bcd-4948-9346-4cc985faa7b0",
                     "spriteSheetId": "dfa75239-299d-41fe-a6cd-9e9438da1938",
-                    "x": 13,
+                    "x": 14,
                     "y": 7,
                     "movementType": "faceInteraction",
                     "direction": "down",
@@ -3506,7 +3658,8 @@
                             "id": "5f59ec89-73be-4605-8e2f-2f27486d64ae",
                             "command": "EVENT_END"
                         }
-                    ]
+                    ],
+                    "animate": false
                 }
             ],
             "triggers": [
@@ -4669,588 +4822,34 @@
                     "animSpeed": "3",
                     "script": [
                         {
-                            "id": "965d9f24-cd42-437b-bb59-19af99cfa1b9",
-                            "command": "EVENT_IF_TRUE",
+                            "id": "e91250ec-f94a-4409-bf6b-33698ff336c4",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Use the signs to\ngo to where the\nEssences are...",
+                                    "... held.",
+                                    "I cannot help you.\nThis journey is\nyours, not mine.",
+                                    "I am but a guide.\nI can only push\nyou...",
+                                    "... in the right\ndirection."
+                                ],
+                                "__collapse": true
+                            }
+                        },
+                        {
+                            "id": "9dee75d1-3c65-4df1-ac8a-54ef76f90b27",
+                            "command": "EVENT_SET_TRUE",
                             "args": {
                                 "variable": "44",
-                                "__collapse": true,
-                                "__collapseElse": true
-                            },
-                            "true": [
-                                {
-                                    "id": "1b95b93e-9c27-4871-bada-93f7dcd7a5cd",
-                                    "command": "EVENT_TEXT",
-                                    "args": {
-                                        "text": [
-                                            "Ah, you're still\nhere.",
-                                            "Do you wish to\nlearn more about\nme? ",
-                                            "Be warned, it's a\nlong story."
-                                        ]
-                                    }
-                                },
-                                {
-                                    "id": "99381294-2624-49b6-a351-a2e536d50faa",
-                                    "command": "EVENT_CHOICE",
-                                    "args": {
-                                        "variable": "45",
-                                        "trueText": "Yes",
-                                        "falseText": "No"
-                                    }
-                                },
-                                {
-                                    "id": "f517041a-7e27-436e-a9de-d5183f14c696",
-                                    "command": "EVENT_IF_TRUE",
-                                    "args": {
-                                        "variable": "45"
-                                    },
-                                    "true": [
-                                        {
-                                            "id": "7bc5c801-354c-4e95-8b1b-e6927580a664",
-                                            "command": "EVENT_TEXT",
-                                            "args": {
-                                                "text": [
-                                                    "Well, all of the\nsudden, I was\n\"born\".",
-                                                    "Not in the sense\nthat you humans\nthink, though.",
-                                                    "I blinked into\nexistence. ",
-                                                    "Before man and\nbefore time\nitself.",
-                                                    "Before the stars\nbrought light into\nthe universe.",
-                                                    "I was born in\ndarkness.",
-                                                    "I remember sitting\nin an endless void\nfor centuries.",
-                                                    "I didn't know who\nor where I was.",
-                                                    "For the only time\nin my life, I was\nscared.",
-                                                    "Then, light. Light\nshone through the\ndark."
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "id": "1a2d8fde-5ce1-4d89-8ef5-567cf13a953d",
-                                            "command": "EVENT_TEXT",
-                                            "args": {
-                                                "text": "Do you wish for me\nto continue?"
-                                            }
-                                        },
-                                        {
-                                            "id": "88134422-9bf6-4361-9496-fa79ac4e1e45",
-                                            "command": "EVENT_CHOICE",
-                                            "args": {
-                                                "variable": "46",
-                                                "trueText": "Yes",
-                                                "falseText": "No"
-                                            }
-                                        },
-                                        {
-                                            "id": "5eaf9279-b4c8-4e6a-9053-ec24253546f8",
-                                            "command": "EVENT_IF_TRUE",
-                                            "args": {
-                                                "variable": "46"
-                                            },
-                                            "true": [
-                                                {
-                                                    "id": "e040ef1d-6750-418e-bdb8-037dc3f8f1ea",
-                                                    "command": "EVENT_TEXT",
-                                                    "args": {
-                                                        "text": [
-                                                            "I was blinded. I\ndid not know of\nlight.",
-                                                            "I could see far\nbeyond me. ",
-                                                            "Stars. Billions of\nthem. Everywhere.",
-                                                            "It was beautiful.\nThen, I looked to\nmy right.",
-                                                            "What I saw\nbewildered me...."
-                                                        ]
-                                                    }
-                                                },
-                                                {
-                                                    "id": "6f526014-a440-4212-b765-827af7d15549",
-                                                    "command": "EVENT_TEXT",
-                                                    "args": {
-                                                        "text": "Do you wish for me\nto continue?"
-                                                    }
-                                                },
-                                                {
-                                                    "id": "3385b786-e832-4956-8efb-b8df3a9a0af3",
-                                                    "command": "EVENT_CHOICE",
-                                                    "args": {
-                                                        "variable": "47",
-                                                        "trueText": "Yes",
-                                                        "falseText": "No"
-                                                    }
-                                                },
-                                                {
-                                                    "id": "337fafc1-1e52-4252-9db5-dcd552454a0e",
-                                                    "command": "EVENT_IF_TRUE",
-                                                    "args": {
-                                                        "variable": "47"
-                                                    },
-                                                    "true": [
-                                                        {
-                                                            "id": "69021343-2da1-4ed8-9adb-b1f15c7e0866",
-                                                            "command": "EVENT_TEXT",
-                                                            "args": {
-                                                                "text": [
-                                                                    "To my right, was\nanother being! I\nwas shocked!",
-                                                                    "We both screamed\nwhen we made eye\ncontact.",
-                                                                    "How long was he\nthere? Was he with\nme the whole...",
-                                                                    "... time? That's\nwhat I was\nwondering.",
-                                                                    "I did not even\nspeak, we\ncommunicated...",
-                                                                    "... somehow. A\ntelepathic link,\nmaybe?",
-                                                                    "Anyhow, we bonded.\nWhat else is there\nto do...",
-                                                                    "... in the\nvastness of space?",
-                                                                    "We spoke of the\nstars beyond us.",
-                                                                    "We contemplated\nour coming to\nfruition.",
-                                                                    "Then, we\ndiscovered\nsomething..."
-                                                                ]
-                                                            }
-                                                        },
-                                                        {
-                                                            "id": "f0830592-b0c4-4612-8b02-172ae4dbfc31",
-                                                            "command": "EVENT_TEXT",
-                                                            "args": {
-                                                                "text": "Do you wish for me\nto continue?"
-                                                            }
-                                                        },
-                                                        {
-                                                            "id": "7f8ab0fe-5ff2-494f-8a9e-162ef4280121",
-                                                            "command": "EVENT_CHOICE",
-                                                            "args": {
-                                                                "variable": "48",
-                                                                "trueText": "Yes",
-                                                                "falseText": "No"
-                                                            }
-                                                        },
-                                                        {
-                                                            "id": "b1e7368e-5eac-40bd-8c04-a33f1e4b8e57",
-                                                            "command": "EVENT_IF_TRUE",
-                                                            "args": {
-                                                                "variable": "48"
-                                                            },
-                                                            "true": [
-                                                                {
-                                                                    "id": "b5c34887-3f78-43d1-9a42-4ee17396f525",
-                                                                    "command": "EVENT_TEXT",
-                                                                    "args": {
-                                                                        "text": [
-                                                                            "We discovered a\nplanet! A large,\npurple planet!",
-                                                                            "We found a home.\nWe touched down on\nthe surface.",
-                                                                            "That was the first\ntime I felt\ngravity. ",
-                                                                            "The soil felt\ngood. The first\ntime I...",
-                                                                            "... made contact\nwith something. It\nwas amazing.",
-                                                                            "Nevertheless, we\nmade a home. It\nwas small...",
-                                                                            "... but it was\nhome. I gathered\nwhile he...",
-                                                                            "... hunted. I\ncould never cause\nviolence.",
-                                                                            "Over time, I would\ncall him, ally,\nthen friend.",
-                                                                            "Then eventually,\nbrother.",
-                                                                            "I cared about him.\nI... loved him. He\nwas my brother.",
-                                                                            "However, the seeds\nof doubt\ngerminated..."
-                                                                        ],
-                                                                        "__collapse": false
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "id": "e6869a23-37d6-4e17-b623-b0e82aafe1ed",
-                                                                    "command": "EVENT_CHOICE",
-                                                                    "args": {
-                                                                        "variable": "49",
-                                                                        "trueText": "Yes",
-                                                                        "falseText": "No"
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "id": "742bae46-796b-4279-b3d1-f9e4eaf559eb",
-                                                                    "command": "EVENT_IF_TRUE",
-                                                                    "args": {
-                                                                        "variable": "49"
-                                                                    },
-                                                                    "true": [
-                                                                        {
-                                                                            "id": "0dd5ec00-365d-4971-86e7-dc052971b144",
-                                                                            "command": "EVENT_TEXT",
-                                                                            "args": {
-                                                                                "text": [
-                                                                                    "Over time, he\nwould be more\nviolent.",
-                                                                                    "He started hunting\nas a way to get\nfood.",
-                                                                                    "But eventually, he\nstarted hunting\nfor sport.",
-                                                                                    "Our home was\ncovered with\ncorpses.",
-                                                                                    "He would keep\ntheir bones as\ntrophies.",
-                                                                                    "I tried to ignore\nit.",
-                                                                                    "But as time went\non, I was getting\nmore worried.",
-                                                                                    "I was becoming...\nfearful.",
-                                                                                    "So, one day, I\ntried to talk to\nhim..."
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "id": "8f94b8e9-7eaa-40c0-a728-4bcb21bf2524",
-                                                                            "command": "EVENT_TEXT",
-                                                                            "args": {
-                                                                                "text": "Do you wish for me\nto continue?"
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "id": "bc10c0cf-078c-436c-9196-d91e52dcdc2e",
-                                                                            "command": "EVENT_CHOICE",
-                                                                            "args": {
-                                                                                "variable": "50",
-                                                                                "trueText": "Yes",
-                                                                                "falseText": "No"
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "id": "02aeb656-5d02-4d2a-9406-c93035fd0bef",
-                                                                            "command": "EVENT_IF_TRUE",
-                                                                            "args": {
-                                                                                "variable": "50"
-                                                                            },
-                                                                            "true": [
-                                                                                {
-                                                                                    "id": "e06c08a0-1275-4252-b689-04d5fede2949",
-                                                                                    "command": "EVENT_TEXT",
-                                                                                    "args": {
-                                                                                        "text": [
-                                                                                            "I went to speak to\nhim. I told him of\nmy worries...",
-                                                                                            "... but he\nshrugged it off.",
-                                                                                            "He told me to not\nworry. I was\n\"overreacting\".",
-                                                                                            "I put it off. I\njust trusted him\nand moved on.",
-                                                                                            "However, the apex\nof our fate\noccurred."
-                                                                                        ]
-                                                                                    }
-                                                                                },
-                                                                                {
-                                                                                    "id": "db41df8f-7529-4a18-a738-901835d5c9fc",
-                                                                                    "command": "EVENT_TEXT",
-                                                                                    "args": {
-                                                                                        "text": "Do you wish for me\nto continue?"
-                                                                                    }
-                                                                                },
-                                                                                {
-                                                                                    "id": "04f1a78b-b49e-454c-aa2a-fc91fa231a8a",
-                                                                                    "command": "EVENT_CHOICE",
-                                                                                    "args": {
-                                                                                        "variable": "51",
-                                                                                        "trueText": "Yes",
-                                                                                        "falseText": "No"
-                                                                                    }
-                                                                                },
-                                                                                {
-                                                                                    "id": "078f25a5-8570-4c73-a70d-fd8a21f33de5",
-                                                                                    "command": "EVENT_IF_TRUE",
-                                                                                    "args": {
-                                                                                        "variable": "51"
-                                                                                    },
-                                                                                    "true": [
-                                                                                        {
-                                                                                            "id": "41b4ae5b-a2af-4eb1-aa9e-889b9b641c99",
-                                                                                            "command": "EVENT_TEXT",
-                                                                                            "args": {
-                                                                                                "text": [
-                                                                                                    "One day, while\ngathering, I\nlooked up.",
-                                                                                                    "Other beings were\ncoming down.",
-                                                                                                    "The same way muy\nbrother and I had\ncenturies ago!",
-                                                                                                    "I told my brother,\nand he had this\nlook in his eyes",
-                                                                                                    "I did not know\ncalmness and\nrage...",
-                                                                                                    "... could be in\nthe same glare.",
-                                                                                                    "He walked towards\nwhere they landed.",
-                                                                                                    "Then, he did\nsomething vile."
-                                                                                                ]
-                                                                                            }
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "a3a6b618-5277-4c23-822b-8a8a1f5bbf28",
-                                                                                            "command": "EVENT_TEXT",
-                                                                                            "args": {
-                                                                                                "text": "Do you wish for me\nto continue?"
-                                                                                            }
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "87bf4406-1be1-4525-9daa-9c2a78b18b7f",
-                                                                                            "command": "EVENT_CHOICE",
-                                                                                            "args": {
-                                                                                                "variable": "52",
-                                                                                                "trueText": "Yes",
-                                                                                                "falseText": "No"
-                                                                                            }
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "10f6bcc3-21a6-4e38-a45f-61b20c27c0f6",
-                                                                                            "command": "EVENT_TEXT",
-                                                                                            "args": {
-                                                                                                "text": [
-                                                                                                    "He killed them. He\nmercilessly killed\nthem.",
-                                                                                                    "I was appalled. I\nwas disgusted.",
-                                                                                                    "I went over to him\nand confronted\nhim.",
-                                                                                                    "He looked at me\nand before I could\nsay anything...",
-                                                                                                    "... he looked at\nme with a blank\nstare.",
-                                                                                                    "I asked why he had\ndone it, and he\nsaid he had to.",
-                                                                                                    "Needless to say,\nwe argued. For\ndays. Years.",
-                                                                                                    "Centuries.",
-                                                                                                    "I could not\nrecognize my\nbrother anymore.",
-                                                                                                    "So, I decided to\nleave. ",
-                                                                                                    "When I went to say\ngoodbye, he...",
-                                                                                                    "... tried to kill\nme.",
-                                                                                                    "I managed to\nescape. ",
-                                                                                                    "He told me he\nhated me. ",
-                                                                                                    "He said he'd\nbecome everything\nI wasn't.",
-                                                                                                    "I cried for the\nfirst time that\nday. ",
-                                                                                                    "However, that\nexperience did\ngive me purpose."
-                                                                                                ]
-                                                                                            }
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "57729f0a-7a48-4cb3-88ec-5711cffc71dd",
-                                                                                            "command": "EVENT_TEXT",
-                                                                                            "args": {
-                                                                                                "text": "Do you wish for me\nto continue?"
-                                                                                            }
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "ccc2ce5f-df10-4d66-a6b4-be0743bdfcae",
-                                                                                            "command": "EVENT_CHOICE",
-                                                                                            "args": {
-                                                                                                "variable": "53",
-                                                                                                "trueText": "Yes",
-                                                                                                "falseText": "No"
-                                                                                            }
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "44a59ee1-adbc-4d79-8a53-15533ca4c3a6",
-                                                                                            "command": "EVENT_IF_TRUE",
-                                                                                            "args": {
-                                                                                                "variable": "53"
-                                                                                            },
-                                                                                            "true": [
-                                                                                                {
-                                                                                                    "id": "a739eddc-1a43-4e02-bdcc-24741bb43b22",
-                                                                                                    "command": "EVENT_TEXT",
-                                                                                                    "args": {
-                                                                                                        "text": [
-                                                                                                            "From that day on,\nI realized my\ndestiny.",
-                                                                                                            "I was born to\nhelp life, not\nhurt it.",
-                                                                                                            "I spent ages\nwandering the\nreaches of space",
-                                                                                                            "Then, I found\nEarth.",
-                                                                                                            "I was marvelled at\nwhat I saw.",
-                                                                                                            "Civilizations.\nPeople in harmony.\nIt was great.",
-                                                                                                            "Then, I saw war.\nDeath. Famine.",
-                                                                                                            "I knew if I wanted\nto help, I\ncouldn't...",
-                                                                                                            "... make myself\nknown at large.",
-                                                                                                            "So, I helped\nindividually.",
-                                                                                                            "I reached into the\nsouls of others\nand helped them.",
-                                                                                                            "I helped them\nbecome better.",
-                                                                                                            "And now, I'm here.\nWith you. ",
-                                                                                                            "I don't know where\nmy brother is.",
-                                                                                                            "I do know he's\nwreaking havoc. ",
-                                                                                                            "So, thank you for\nlistening. It was\na lot.",
-                                                                                                            "You helped me."
-                                                                                                        ]
-                                                                                                    }
-                                                                                                },
-                                                                                                {
-                                                                                                    "id": "ab97a9c9-0d6d-433a-bdcb-24788ba2c4a7",
-                                                                                                    "command": "EVENT_END"
-                                                                                                }
-                                                                                            ],
-                                                                                            "false": [
-                                                                                                {
-                                                                                                    "id": "2244e7d2-5da3-4b8b-9018-1f260414ae20",
-                                                                                                    "command": "EVENT_TEXT",
-                                                                                                    "args": {
-                                                                                                        "text": [
-                                                                                                            "That's fine.\nCollect the\nEssences.",
-                                                                                                            "And, thanks for\nlistening."
-                                                                                                        ]
-                                                                                                    }
-                                                                                                },
-                                                                                                {
-                                                                                                    "id": "6f88753c-4ada-4f8a-9029-0cc1d72ef571",
-                                                                                                    "command": "EVENT_END"
-                                                                                                }
-                                                                                            ]
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "b04ff420-e308-4b76-a6ec-8ba89696a215",
-                                                                                            "command": "EVENT_END"
-                                                                                        }
-                                                                                    ],
-                                                                                    "false": [
-                                                                                        {
-                                                                                            "id": "06473b22-9a2d-4410-b39f-27eaa55f08f2",
-                                                                                            "command": "EVENT_TEXT",
-                                                                                            "args": {
-                                                                                                "text": [
-                                                                                                    "That's fine.\nCollect the\nEssences.",
-                                                                                                    "And, thanks for\nlistening."
-                                                                                                ]
-                                                                                            }
-                                                                                        },
-                                                                                        {
-                                                                                            "id": "76d9135f-2232-49a1-a6dc-957bbf9535ba",
-                                                                                            "command": "EVENT_END"
-                                                                                        }
-                                                                                    ]
-                                                                                },
-                                                                                {
-                                                                                    "id": "9cecef6e-153f-40bd-b85b-a1929010a401",
-                                                                                    "command": "EVENT_END"
-                                                                                }
-                                                                            ],
-                                                                            "false": [
-                                                                                {
-                                                                                    "id": "fbd3c49b-2f4b-4e82-98b7-33318d68cc46",
-                                                                                    "command": "EVENT_TEXT",
-                                                                                    "args": {
-                                                                                        "text": [
-                                                                                            "That's fine.\nCollect the\nEssences.",
-                                                                                            "And, thanks for\nlistening."
-                                                                                        ]
-                                                                                    }
-                                                                                },
-                                                                                {
-                                                                                    "id": "9e34dd4b-7a7b-47d5-b8a1-a3e45d588c54",
-                                                                                    "command": "EVENT_END"
-                                                                                }
-                                                                            ]
-                                                                        },
-                                                                        {
-                                                                            "id": "3d0f2ecd-33eb-48c8-9fae-9cc84e2da779",
-                                                                            "command": "EVENT_END"
-                                                                        }
-                                                                    ],
-                                                                    "false": [
-                                                                        {
-                                                                            "id": "10b4d58c-209a-47df-a2de-f9062870cda1",
-                                                                            "command": "EVENT_TEXT",
-                                                                            "args": {
-                                                                                "text": [
-                                                                                    "That's fine.\nCollect the\nEssences. ",
-                                                                                    "And, thanks for\nlistening."
-                                                                                ]
-                                                                            }
-                                                                        },
-                                                                        {
-                                                                            "id": "4d125b4e-46ec-483e-bd1a-d48c9c9e943c",
-                                                                            "command": "EVENT_END"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "id": "6382ca9d-b53f-4bef-b050-f95a72b96f3d",
-                                                                    "command": "EVENT_END"
-                                                                }
-                                                            ],
-                                                            "false": [
-                                                                {
-                                                                    "id": "c887dafc-1afb-4b65-945d-23332de0904e",
-                                                                    "command": "EVENT_TEXT",
-                                                                    "args": {
-                                                                        "text": [
-                                                                            "That's fine.\nCollect the\nEssences.",
-                                                                            "And, thanks\nfor listening."
-                                                                        ]
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "id": "672570c4-e503-4b69-a52b-00bf3d143aca",
-                                                                    "command": "EVENT_END"
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "id": "4b63f83f-2a08-46c2-ae9c-292e4bc9e4ea",
-                                                            "command": "EVENT_END"
-                                                        }
-                                                    ],
-                                                    "false": [
-                                                        {
-                                                            "id": "aa6df6fc-6791-4bf5-b581-4ed3ac0e66a6",
-                                                            "command": "EVENT_TEXT",
-                                                            "args": {
-                                                                "text": [
-                                                                    "Okay, that's fine.\nCollect the\nEssences.",
-                                                                    "Also, thanks for\nlistening."
-                                                                ]
-                                                            }
-                                                        },
-                                                        {
-                                                            "id": "3ea41740-02aa-4167-8c2e-a8496202318f",
-                                                            "command": "EVENT_END"
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "6c70e980-61ac-41c6-9b11-5d1a5fb83caf",
-                                                    "command": "EVENT_END"
-                                                }
-                                            ],
-                                            "false": [
-                                                {
-                                                    "id": "febc492b-1f3e-4c6a-baa9-adcdde2afed5",
-                                                    "command": "EVENT_TEXT",
-                                                    "args": {
-                                                        "text": [
-                                                            "Okay, that's fine.\nCollect the\nEssences.",
-                                                            "And, thanks for\nlistening."
-                                                        ]
-                                                    }
-                                                },
-                                                {
-                                                    "id": "ac31c39a-e220-483e-8c87-bb69a8f6e25b",
-                                                    "command": "EVENT_END"
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "id": "18fffd81-987f-4880-9903-cd71b5e9a83a",
-                                            "command": "EVENT_END"
-                                        }
-                                    ],
-                                    "false": [
-                                        {
-                                            "id": "ac89f362-b92e-4234-b29b-e480037c1e13",
-                                            "command": "EVENT_TEXT",
-                                            "args": {
-                                                "text": "Okay, that's fine.\nCollect the\nEssences."
-                                            }
-                                        },
-                                        {
-                                            "id": "177465d8-73b9-4b75-ab09-36aba28b1d03",
-                                            "command": "EVENT_END"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "4e1423b0-ba73-4536-9843-2ad1a06f1c76",
-                                    "command": "EVENT_END"
-                                }
-                            ],
-                            "false": [
-                                {
-                                    "id": "e91250ec-f94a-4409-bf6b-33698ff336c4",
-                                    "command": "EVENT_TEXT",
-                                    "args": {
-                                        "text": [
-                                            "Use the signs to\ngo to where the\nEssences are...",
-                                            "... held.",
-                                            "I cannot help you.\nThis journey is\nyours, not mine.",
-                                            "I am but a guide.\nI can only push\nyou...",
-                                            "... in the right\ndirection."
-                                        ]
-                                    }
-                                },
-                                {
-                                    "id": "9dee75d1-3c65-4df1-ac8a-54ef76f90b27",
-                                    "command": "EVENT_SET_TRUE",
-                                    "args": {
-                                        "variable": "44"
-                                    }
-                                },
-                                {
-                                    "id": "4b7062df-7915-489a-a0d2-13da1d9310c5",
-                                    "command": "EVENT_END"
-                                }
-                            ]
+                                "__collapse": true
+                            }
                         },
                         {
                             "id": "cbf1f7be-eb5f-48ce-b7d9-f3cb389151ec",
                             "command": "EVENT_IF_TRUE",
                             "args": {
-                                "variable": "43"
+                                "variable": "43",
+                                "__collapse": true,
+                                "__collapseElse": true
                             },
                             "true": [
                                 {
@@ -5326,7 +4925,7 @@
                                     "command": "EVENT_SWITCH_SCENE",
                                     "args": {
                                         "sceneId": "a44d3148-8f5f-4d62-9fe7-6b2372a0e8d1",
-                                        "x": 4,
+                                        "x": 2,
                                         "y": 30,
                                         "direction": "right",
                                         "fadeSpeed": "2"
@@ -5340,6 +4939,524 @@
                             "false": [
                                 {
                                     "id": "3019dc7a-87f8-4c48-b8fa-a257837fa9e3",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "965d9f24-cd42-437b-bb59-19af99cfa1b9",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "44",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "1b95b93e-9c27-4871-bada-93f7dcd7a5cd",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Also, do you wish\nto learn more\nabout me?",
+                                            "I feel like I\nshould at least\ngive you...",
+                                            "... some context\nfor all this.",
+                                            "Be warned, it's a\nlong story."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "99381294-2624-49b6-a351-a2e536d50faa",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "45",
+                                        "trueText": "Yes",
+                                        "falseText": "No"
+                                    }
+                                },
+                                {
+                                    "id": "f517041a-7e27-436e-a9de-d5183f14c696",
+                                    "command": "EVENT_IF_TRUE",
+                                    "args": {
+                                        "variable": "45",
+                                        "__collapseElse": true,
+                                        "__collapse": false
+                                    },
+                                    "true": [
+                                        {
+                                            "id": "7bc5c801-354c-4e95-8b1b-e6927580a664",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Well, all of the\nsudden, I was\n\"born\".",
+                                                    "Not in the sense\nthat you humans\nthink, though.",
+                                                    "I blinked into\nexistence. ",
+                                                    "Before man and\nbefore time\nitself.",
+                                                    "Before the stars\nbrought light into\nthe universe.",
+                                                    "I was born in\ndarkness.",
+                                                    "I remember sitting\nin an endless void\nfor centuries.",
+                                                    "I didn't know who\nor where I was.",
+                                                    "For the only time\nin my life, I was\nscared.",
+                                                    "Then, light. Light\nshone through the\ndark."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "1a2d8fde-5ce1-4d89-8ef5-567cf13a953d",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": "Do you wish for me\nto continue?"
+                                            }
+                                        },
+                                        {
+                                            "id": "88134422-9bf6-4361-9496-fa79ac4e1e45",
+                                            "command": "EVENT_CHOICE",
+                                            "args": {
+                                                "variable": "46",
+                                                "trueText": "Yes",
+                                                "falseText": "No"
+                                            }
+                                        },
+                                        {
+                                            "id": "18fffd81-987f-4880-9903-cd71b5e9a83a",
+                                            "command": "EVENT_END"
+                                        }
+                                    ],
+                                    "false": [
+                                        {
+                                            "id": "177465d8-73b9-4b75-ab09-36aba28b1d03",
+                                            "command": "EVENT_END"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "4e1423b0-ba73-4536-9843-2ad1a06f1c76",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "4b7062df-7915-489a-a0d2-13da1d9310c5",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1c6173c3-7536-4534-b93b-fef083d62224",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "46",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "aa802c3f-0f17-43a4-9552-2e60cb45d524",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "I was blinded. I\ndid not know of\nlight.",
+                                            "I could see far\nbeyond me. ",
+                                            "Stars. Billions of\nthem. Everywhere.",
+                                            "It was beautiful.\nThen, I looked to\nmy right.",
+                                            "What I saw\nbewildered me...."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "5c06afa4-92a7-4470-b836-f7c4462665b0",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Do you wish for me\nto continue?"
+                                    }
+                                },
+                                {
+                                    "id": "d94dde4e-67ee-4544-8e10-bc5a0a67c2d7",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "47",
+                                        "trueText": "Yes",
+                                        "falseText": "No"
+                                    }
+                                },
+                                {
+                                    "id": "d9c2134c-39a1-43d3-8bed-c5790907ceeb",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "09dafe51-92ee-4f69-95bd-31a896d1d567",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ba232e47-9f47-4e6e-96bf-73d4320b40e5",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "47",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "d6a45172-4826-4aa7-8844-6ca0aa55dfc8",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "To my right, was\nanother being! I\nwas shocked!",
+                                            "We both screamed\nwhen we made eye\ncontact.",
+                                            "How long was he\nthere? Was he with\nme the whole...",
+                                            "... time? That's\nwhat I was\nwondering.",
+                                            "I did not even\nspeak, we\ncommunicated...",
+                                            "... somehow. A\ntelepathic link,\nmaybe?",
+                                            "Anyhow, we bonded.\nWhat else is there\nto do...",
+                                            "... in the\nvastness of space?",
+                                            "We spoke of the\nstars beyond us.",
+                                            "We contemplated\nour coming to\nfruition.",
+                                            "Then, we\ndiscovered\nsomething..."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "edd7570a-9977-477e-8c1f-c343634609a1",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Do you wish for me\nto continue?"
+                                    }
+                                },
+                                {
+                                    "id": "c734701a-1fd2-4d7f-94eb-d24318e981fe",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "48",
+                                        "trueText": "Yes",
+                                        "falseText": "No"
+                                    }
+                                },
+                                {
+                                    "id": "8dacc599-bcec-483a-b8de-6f0c9d762a48",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "65877db5-7b4f-4020-a307-b6c365720b5d",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d4d8def6-e53b-4ef4-9e6e-fa84fb81e6cb",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "48",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "86d4661f-f90f-4777-91dd-559aa456b6bd",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "We discovered a\nplanet! A large,\npurple planet!",
+                                            "We found a home.\nWe touched down on\nthe surface.",
+                                            "That was the first\ntime I felt\ngravity. ",
+                                            "The soil felt\ngood. The first\ntime I...",
+                                            "... made contact\nwith something. It\nwas amazing.",
+                                            "Nevertheless, we\nmade a home. It\nwas small...",
+                                            "... but it was\nhome. I gathered\nwhile he...",
+                                            "... hunted. I\ncould never cause\nviolence.",
+                                            "Over time, I would\ncall him, ally,\nthen friend.",
+                                            "Then eventually,\nbrother.",
+                                            "I cared about him.\nI... loved him. He\nwas my brother.",
+                                            "However, the seeds\nof doubt\ngerminated..."
+                                        ],
+                                        "__collapse": false
+                                    }
+                                },
+                                {
+                                    "id": "356e3155-58fc-40f0-9bdf-b2d2fa4140eb",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Do you wish for me\nto continue?"
+                                    }
+                                },
+                                {
+                                    "id": "d15ca016-2240-4c96-9a95-b9666c974549",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "49",
+                                        "trueText": "Yes",
+                                        "falseText": "No"
+                                    }
+                                },
+                                {
+                                    "id": "9fbb5e51-1a2c-4c2c-b3e6-5287e2588009",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "2dcc6875-f981-4ffc-a556-38366bdd859f",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "47672ddc-15cf-4c4b-985d-ec26b0e0f5b7",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "49",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "8682bfbb-ebf6-40ef-a1e8-dce4e23da634",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Over time, he\nwould be more\nviolent.",
+                                            "He started hunting\nas a way to get\nfood.",
+                                            "But eventually, he\nstarted hunting\nfor sport.",
+                                            "Our home was\ncovered with\ncorpses.",
+                                            "He would keep\ntheir bones as\ntrophies.",
+                                            "I tried to ignore\nit.",
+                                            "But as time went\non, I was getting\nmore worried.",
+                                            "I was becoming...\nfearful.",
+                                            "So, one day, I\ntried to talk to\nhim..."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "44b5db57-c135-43b7-8f7b-b197383e15fc",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Do you wish for me\nto continue?"
+                                    }
+                                },
+                                {
+                                    "id": "f7a866b8-b718-4ec2-ac45-e291a3d5c86d",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "50",
+                                        "trueText": "Yes",
+                                        "falseText": "No"
+                                    }
+                                },
+                                {
+                                    "id": "c28e8c71-4ae8-4961-8a31-531ebf11c149",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "b6d7bd45-c39a-4f63-a42d-9bbdc42f48e3",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "b379293d-3d2c-4b77-85cf-30dff913354e",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "50",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "e1cd634f-dc00-4374-b9a3-9810ab9783cb",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "I went to speak to\nhim. I told him of\nmy worries...",
+                                            "... but he\nshrugged it off.",
+                                            "He told me to not\nworry. I was\n\"overreacting\".",
+                                            "I put it off. I\njust trusted him\nand moved on.",
+                                            "However, the apex\nof our fate\noccurred."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "be7efb87-1ace-472b-9542-0e2975fefe7d",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Do you wish for me\nto continue?"
+                                    }
+                                },
+                                {
+                                    "id": "ba8148cc-8266-4334-b2ed-4a1afbce7e45",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "51",
+                                        "trueText": "Yes",
+                                        "falseText": "No"
+                                    }
+                                },
+                                {
+                                    "id": "978f5f0e-aca1-48cf-bbb9-422ad006434e",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "544b0311-cc46-4aa1-93b0-701f4e5cb33e",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2dab49d1-2b7b-4cb1-bb4e-d75c50249b8b",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "51",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "01ba7672-aa8e-48e0-b817-1058f4536f27",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "One day, while\ngathering, I\nlooked up.",
+                                            "Other beings were\ncoming down.",
+                                            "The same way muy\nbrother and I had\ncenturies ago!",
+                                            "I told my brother,\nand he had this\nlook in his eyes",
+                                            "I did not know\ncalmness and\nrage...",
+                                            "... could be in\nthe same glare.",
+                                            "He walked towards\nwhere they landed.",
+                                            "Then, he did\nsomething vile."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "5606cfd2-bf2a-4e68-9b70-9484c3b9136e",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Do you wish for me\nto continue?"
+                                    }
+                                },
+                                {
+                                    "id": "b252af0f-7538-467e-81f9-d61f322a44ca",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "52",
+                                        "trueText": "Yes",
+                                        "falseText": "No"
+                                    }
+                                },
+                                {
+                                    "id": "fbde0d66-9555-4623-b987-4f3609e1cf0c",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "2065b7dd-c3be-414d-ae23-a969313a2963",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3ac94953-89de-4441-ac35-52ddc16ea2d2",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "52",
+                                "__collapse": true,
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "f0afdb9a-d7f1-4cc8-817f-619ea7a6d600",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "He killed them. He\nmercilessly killed\nthem.",
+                                            "I was appalled. I\nwas disgusted.",
+                                            "I went over to him\nand confronted\nhim.",
+                                            "He looked at me\nand before I could\nsay anything...",
+                                            "... he looked at\nme with a blank\nstare.",
+                                            "I asked why he had\ndone it, and he\nsaid he had to.",
+                                            "Needless to say,\nwe argued. For\ndays. Years.",
+                                            "Centuries.",
+                                            "I could not\nrecognize my\nbrother anymore.",
+                                            "So, I decided to\nleave. ",
+                                            "When I went to say\ngoodbye, he...",
+                                            "... tried to kill\nme.",
+                                            "I managed to\nescape. ",
+                                            "He told me he\nhated me. ",
+                                            "He said he'd\nbecome everything\nI wasn't.",
+                                            "I cried for the\nfirst time that\nday. ",
+                                            "However, that\nexperience did\ngive me purpose."
+                                        ],
+                                        "__collapse": false
+                                    }
+                                },
+                                {
+                                    "id": "8ceb251d-0e44-4cc8-b582-a6dc067f6374",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "0464f7bc-0eec-4607-9148-0c07821ca46c",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "a86a42e1-daf6-44a8-a08f-afdab87312b0",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "53",
+                                "__collapse": false,
+                                "__collapseElse": false
+                            },
+                            "true": [
+                                {
+                                    "id": "44a9d0a1-1789-4f63-ba69-dc15ff74f31f",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "From that day on,\nI realized my\ndestiny.",
+                                            "I was born to\nhelp life, not\nhurt it.",
+                                            "I spent ages\nwandering the\nreaches of space",
+                                            "Then, I found\nEarth.",
+                                            "I was marvelled at\nwhat I saw.",
+                                            "Civilizations.\nPeople in harmony.\nIt was great.",
+                                            "Then, I saw war.\nDeath. Famine.",
+                                            "I knew if I wanted\nto help, I\ncouldn't...",
+                                            "... make myself\nknown at large.",
+                                            "So, I helped\nindividually.",
+                                            "I reached into the\nsouls of others\nand helped them.",
+                                            "I helped them\nbecome better.",
+                                            "And now, I'm here.\nWith you. ",
+                                            "I don't know where\nmy brother is.",
+                                            "I do know he's\nwreaking havoc. ",
+                                            "So, thank you for\nlistening. It was\na lot.",
+                                            "You helped me."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "9d7d6046-022a-42b1-905c-48384ad1d529",
+                                    "command": "EVENT_SET_TRUE",
+                                    "args": {
+                                        "variable": "66"
+                                    }
+                                },
+                                {
+                                    "id": "94b77c43-1a39-4949-820e-d1068d351930",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "f68ca8fc-c9c9-45d3-8ae0-961c6a447b4b",
                                     "command": "EVENT_END"
                                 }
                             ]
@@ -7877,7 +7994,84 @@
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "b93ecfb4-6330-4a2f-a101-b4e7dd4391ac",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "DANGER! UNSTABLE\nPORTAL!",
+                                    "DO NOT WALK INTO\nIT!",
+                                    "EXIT IS UNKNOWN!"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "6d271bb0-afe0-4393-b477-f6d1d7fb7811",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Faith! "
+                            }
+                        },
+                        {
+                            "id": "a4daf071-cb17-421a-8558-ec0a54e19e62",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Yeah, Jeff?"
+                            }
+                        },
+                        {
+                            "id": "6ca4790e-eae4-4b53-8555-25ddc177741c",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Are you ready to\nmeet the Highest\nChosen?"
+                            }
+                        },
+                        {
+                            "id": "265d0627-fec3-4f3b-91f5-25ef2f93c2bf",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "63",
+                                "trueText": "Yes!",
+                                "falseText": "Not yet."
+                            }
+                        },
+                        {
+                            "id": "b4d845dd-f5f0-4424-9574-4194112c715a",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "63"
+                            },
+                            "true": [
+                                {
+                                    "id": "8b601a2e-99df-47af-9074-1c4cb6b05834",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "060a0a02-9e49-4a37-9ad4-18595c095fdd",
+                                        "x": 13,
+                                        "y": 27,
+                                        "direction": "up",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "a960e080-792e-4e8b-a60e-9ac5cf55dc3d",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "c0daacc8-0f45-4419-9432-06f42b73c2b2",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e5faff49-3d0d-4bc0-aafe-95eac3148522",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "634fb233-4deb-46d0-95a7-d77c9eb69c42",
@@ -7887,27 +8081,467 @@
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "b1f30864-4443-4a76-b25a-50b5b196973e",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Why hello, human.\nI've been\nexpecting you."
+                            }
+                        },
+                        {
+                            "id": "1c8d59a1-0532-43ed-ad6c-b069b2becb39",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "You have?"
+                            }
+                        },
+                        {
+                            "id": "f8c7475c-4103-4f30-b70f-bdaed98d8e30",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I have indeed. I\nknow all about\nyou...",
+                                    "... Faith Foreman."
+                                ]
+                            }
+                        },
+                        {
+                            "id": "df9c75f6-1d66-4b39-8cc3-1b96423dcdff",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "How?"
+                            }
+                        },
+                        {
+                            "id": "fdde7ca5-2e0e-46cd-bf08-2c8b97ad1e79",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "These books\ncontain lore of\nevery single...",
+                                    "... soul!",
+                                    "It is my duty to\nkeep them in\norder!",
+                                    "Would you like to\nhear from your\nfile?"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "e88cf41d-3351-4a76-b04c-71e100462c41",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "62",
+                                "trueText": "Yes",
+                                "falseText": "No"
+                            }
+                        },
+                        {
+                            "id": "11da70c2-9aeb-4b41-80b8-b1b9ae674b58",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "62"
+                            },
+                            "true": [
+                                {
+                                    "id": "840459ec-cff7-4599-a7d2-7fc16c6ae74b",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Here it is. Faith\nAnastasia Foreman.",
+                                            "You were born into\nwealth. ",
+                                            "Your family is\nknown by many\npeople.",
+                                            "You got whatever\nyou wanted\nwhenever you...",
+                                            "... wanted.",
+                                            "You mistreated\nothers. You\nhumiliated...",
+                                            "... others. You\nhurt others.",
+                                            "Suddenly,\neveryone forgot\nabout you.",
+                                            "Then, you went on\na short quest to\nget the...",
+                                            "... Essences of\nGoodness.",
+                                            "Now, you're here.",
+                                            "Ya know, I've seen\nlots of people in\nhistory.",
+                                            "Lots like you.\nYou're different,\nthough.",
+                                            "You acted that way\nout of fear. ",
+                                            "Fear that you'll\nbe worthless.",
+                                            "Your family is\nknown, so the same\nshould...",
+                                            "... be expected of\nyou, right? That's\nwhat you thought",
+                                            "... but that\ndoesn't have to be\nyour legacy.",
+                                            "I know you have\nthe Essences\nalready.",
+                                            "You probably feel\nkinder, more\nhonest. All that",
+                                            "However, you must\nremember one\nthing:",
+                                            "Being good to\nyourself is just\nas important...",
+                                            "... as being good\nto others. ",
+                                            "Don't worry about\nwhat others think.",
+                                            "You're good.\nYou're enough.\nRemember that.",
+                                            "You may leave now."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "ef1f3ec4-0dd1-45c8-87cb-f1c44c485ad9",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "fdb61e89-f648-4737-91f9-2f022a81e513",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Okay, that's fine.\nYour choices is\nexactly that...",
+                                            "Yours."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "32e85782-0e8d-4526-a2f3-72dd8d1842f5",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "97b72ba5-908f-473e-bb53-1e46d8b3c78a",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "1bb98f4e-48be-421c-b564-7ed4087266b0",
                     "spriteSheetId": "e20ce140-53a5-4b1b-9964-138ba0c86925",
-                    "x": 29,
-                    "y": 18,
+                    "x": 25,
+                    "y": 16,
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "bb966db8-4c92-4b01-9c9e-e244deadb12d",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Hello, human! How\nare you this\ncentury?"
+                            }
+                        },
+                        {
+                            "id": "c36942aa-d6cf-40a0-b183-b8275af9ec0f",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "57",
+                                "trueText": "Good, thanks!",
+                                "falseText": "I'm confused..."
+                            }
+                        },
+                        {
+                            "id": "891fb761-e79a-496d-9c01-946060fe2535",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "57"
+                            },
+                            "true": [
+                                {
+                                    "id": "b79f4899-9d9f-4533-beb6-7a13406301f2",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Oh, that's good to\nhear! Would you\nlike to...",
+                                            "... learn about\nwhat is in here?"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "841dcd69-39c6-4e72-96d0-c678af3cb234",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "44ba3342-8100-492c-a95c-15701501d24d",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Aw, that's too\nbad. Want to learn\nabout...",
+                                            "... what's in here\nto maybe help you\nbe less...",
+                                            "... confused?"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "f7d62981-54ea-400d-a509-b795669d3e30",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9a11c087-20b7-4e75-beec-a041a3156aa2",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "58",
+                                "trueText": "Sure!",
+                                "falseText": "No thanks."
+                            }
+                        },
+                        {
+                            "id": "cc161c48-9fb9-4e99-a9cb-5d6cbcd39a8c",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "58"
+                            },
+                            "true": [
+                                {
+                                    "id": "e3befbe4-a5b2-4ab5-82e2-7032c1a2e7f7",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "These are weapons\nand tools that we\nkeep...",
+                                            "... in store here.",
+                                            "We keep them just\nin case we are\nattacked.",
+                                            "Better safe than\nsorry when it\ncomes to...",
+                                            "... the coming\nwar."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "e775eddd-cdef-4473-895a-be1a960867d7",
+                                    "command": "EVENT_SET_TRUE",
+                                    "args": {
+                                        "variable": "59"
+                                    }
+                                },
+                                {
+                                    "id": "5035b445-d092-4601-bea8-a665539aaee2",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "4f54448c-97bb-4ba7-b0eb-c30a7d2c38c1",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Okay. Good luck!"
+                                    }
+                                },
+                                {
+                                    "id": "e008f9c3-8789-49a9-904b-31c67e60a8e1",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1dee24dc-5e34-48d9-bcd0-4db1620183df",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "59"
+                            },
+                            "true": [
+                                {
+                                    "id": "2eee2b37-1e25-4d60-88a2-ff013437da60",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "59",
+                                        "trueText": "The Coming War?",
+                                        "falseText": "This is a lot."
+                                    }
+                                },
+                                {
+                                    "id": "18d807a7-8f00-40a0-a6cf-499a6297ab22",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "e51be534-92aa-48b7-a90e-b69e7286bb62",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "d277b0ad-fa81-45fd-bd19-17328c497e80",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "59"
+                            },
+                            "true": [
+                                {
+                                    "id": "578d9a77-a7b3-450a-b1e2-5335bac43b1b",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Well, it's a long\nstory. In short...",
+                                            "Cosmic tensions\nhave been on the\nrise lately.",
+                                            "The Anti-Chosen\nhate us, and want\nto eliminate us.",
+                                            "They're rogue\nmasters.\n",
+                                            "Conflicting ideals\ndrove us apart."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "c7296a47-3118-4162-853a-a97ddf485e84",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "f17b6a0f-93fd-487e-8466-1d2a7a9a3c74",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Oh, I'm sure it\nis. For a human.\nGood century!"
+                                    }
+                                },
+                                {
+                                    "id": "7ea2654a-1996-46d8-8b0a-bfbdab8f5077",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "61ff01d5-b39e-4974-a2eb-4d1ce2cc79a4",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Anyhow, good luck\non your journey!"
+                            }
+                        },
+                        {
+                            "id": "97b72ba5-908f-473e-bb53-1e46d8b3c78a",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "13b63acf-faf5-4b72-a455-b3d917fde8d4",
                     "spriteSheetId": "e20ce140-53a5-4b1b-9964-138ba0c86925",
-                    "x": 1,
+                    "x": 2,
                     "y": 14,
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "7662a1c9-ef1e-4a9c-8cd3-b51842b8f9cf",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Greetings, human!"
+                            }
+                        },
+                        {
+                            "id": "bb2c656b-ec5f-4ecf-814a-5baa09af6d47",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "60",
+                                "trueText": "What is this?",
+                                "falseText": "Is that bruh?"
+                            }
+                        },
+                        {
+                            "id": "df2817a7-6f2b-4db3-979c-d9d878293895",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "60"
+                            },
+                            "true": [
+                                {
+                                    "id": "08b088ad-679c-41e2-8551-6cc13d966438",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Oh, it is a\nclassroom!",
+                                            "New Chosen are\nborn every 100\ncenturies!",
+                                            "So, I have plenty\nof work.",
+                                            "Here, I teach\nnewcomers the\nrules and duty..",
+                                            ".. of being a\nChosen!"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "13ca8754-25ed-4e94-8229-12adc6d7419d",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "4a9ad948-12ef-4a83-aa7f-2d7daec4dcc1",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Bruh? What is\n\"bruh\"? Is this a\nmoment I...",
+                                            "... learn\nsomething new?\nWow, I need to..",
+                                            ".. name this\nevent! How\nabout...",
+                                            "A Bruh Moment!",
+                                            "Oh, this on the\nboard is\n\"Britorium\"!",
+                                            "Here, we create\nnew elements! This\nis one of them.",
+                                            "Oh, again, what is\nbruh?"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "87b474ce-8c3f-4fb6-bc89-de6d837dc148",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Bruh is a word we\nhumans use! It has\nmany uses!"
+                                    }
+                                },
+                                {
+                                    "id": "af9ed27c-c57d-4c20-a41e-966518f73c0a",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Ah, I see. May I\ncall you \"bruh\"?"
+                                    }
+                                },
+                                {
+                                    "id": "e55dda16-3516-411a-af94-883a89a67fa1",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "61",
+                                        "trueText": "Yes!",
+                                        "falseText": "No thanks."
+                                    }
+                                },
+                                {
+                                    "id": "560d5678-6d89-4efc-987e-4d88fb32ca0d",
+                                    "command": "EVENT_IF_TRUE",
+                                    "args": {
+                                        "variable": "61"
+                                    },
+                                    "true": [
+                                        {
+                                            "id": "0b129760-33dd-4d4d-9bac-805d097ceb22",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Oh, well thank you\nfor teaching me a\nnew word...",
+                                                    "... Bruh! I'm\ngonna use it a\nlot!"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "ba85fd02-695f-4911-b712-39ee50febaf3",
+                                            "command": "EVENT_END"
+                                        }
+                                    ],
+                                    "false": [
+                                        {
+                                            "id": "fb40fa67-3a39-4852-be3f-1ff1988a7a2b",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": "Oh, okay. That's\nfine."
+                                            }
+                                        },
+                                        {
+                                            "id": "de8c53d3-d9ab-44fa-ab11-5d79603f25cf",
+                                            "command": "EVENT_END"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "f9294d22-536c-498f-b653-848b51213a38",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "97b72ba5-908f-473e-bb53-1e46d8b3c78a",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "275f053c-566b-4dc5-9d11-a66df2a2e816",
@@ -7917,7 +8551,108 @@
                     "movementType": "static",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "45df9214-513d-412d-a225-70259f7b4ba9",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Bark!"
+                            }
+                        },
+                        {
+                            "id": "f2d6b729-4312-43aa-9cca-3752927e8adb",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "56",
+                                "trueText": "What a cute dog!",
+                                "falseText": "Bark!"
+                            }
+                        },
+                        {
+                            "id": "3426a003-fe98-4155-a339-2c0546def106",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "56"
+                            },
+                            "true": [
+                                {
+                                    "id": "7c93d4fa-7e51-40ca-a848-7cf7028a6643",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Thanks!"
+                                    }
+                                },
+                                {
+                                    "id": "9a58971f-b987-4115-b20e-809d8d570c0b",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Oh my goodness!\nYou scared me! I\ngotta get...",
+                                            "... used to\ntalking animals."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "b7564e23-1628-4fc1-9aac-5ef1b991a623",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "I'm not a dog, I\njust appear as a\ndog to you!",
+                                            "I'm a wishbringer,\nand you, without\nknowing...",
+                                            "... wished to see\na dog. Here I am!"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "d5d3e8e9-74dc-4e60-b9a2-5d9e8ddeed0b",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Whoa, that's\ncool..."
+                                    }
+                                },
+                                {
+                                    "id": "3b6c6972-da79-45b9-9ec7-dad15d33f6c0",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "341805cf-b891-4d6d-8f95-c02e5308c91a",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Hey, what'd you\ncall me?"
+                                    }
+                                },
+                                {
+                                    "id": "21eeff1e-1d3a-4a1f-b5d2-3ef03e713233",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Oh no, I'm so\nsorry! I-"
+                                    }
+                                },
+                                {
+                                    "id": "be69deb6-5adb-4c6e-b87b-1b9f5f1a48e3",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "No, don't worry!\nI'm just fooling\naround!",
+                                            "Can't do that much\naround here. Thank\nyou...",
+                                            "... for giving me\na laugh!"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "20f6ce67-3016-47f9-aad1-0e7fe0566fe3",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "97b72ba5-908f-473e-bb53-1e46d8b3c78a",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "2f4a3ae5-7470-4179-a873-dfa906ad7758",
@@ -7950,7 +8685,8 @@
                             "command": "EVENT_IF_TRUE",
                             "args": {
                                 "variable": "54",
-                                "__collapse": true
+                                "__collapse": true,
+                                "__collapseElse": true
                             },
                             "true": [
                                 {
@@ -7991,56 +8727,85 @@
                             ]
                         },
                         {
-                            "id": "9a607667-5df5-407d-aa20-311a21d1a29e",
-                            "command": "EVENT_END"
-                        }
-                    ]
-                },
-                {
-                    "id": "e834fddc-5050-467c-9424-2e82c71ffe1b",
-                    "spriteSheetId": "40dcd163-9f72-4861-8131-b01eb9baa000",
-                    "x": 1,
-                    "y": 30,
-                    "movementType": "faceInteraction",
-                    "direction": "down",
-                    "moveSpeed": "1",
-                    "animSpeed": "3",
-                    "script": [
-                        {
-                            "id": "77880ea9-7b0c-4ea8-a9eb-15c6d9f0935e",
+                            "id": "1c5a9c0c-f985-4620-9ee1-388476dea64b",
                             "command": "EVENT_IF_FALSE",
                             "args": {
-                                "variable": "54"
+                                "variable": "54",
+                                "__collapse": true
                             },
                             "true": [
                                 {
-                                    "id": "010fe221-5363-4e91-8a5d-d25861a8d10c",
+                                    "id": "1cb814b1-e8b1-495a-a9ee-64d4c6d8c179",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Oh, humans. Such\ndelightful\ncreatures!",
+                                            "You hardly know\nanything! Such\nignorance...",
+                                            "... is bliss."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "b3fec734-5492-44b1-bcab-8ec8ff74dfb8",
                                     "command": "EVENT_END"
                                 }
                             ],
                             "false": [
                                 {
-                                    "id": "1d5f6b0d-b41c-49a3-adb3-39c3e0e66e59",
+                                    "id": "8230c901-28e5-427e-8eb5-361d4369dc8d",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6347794b-eee5-4500-b6b3-c419ea753c27",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Would you like to\nsee my flowers?"
+                            }
+                        },
+                        {
+                            "id": "d564f0f6-e4fb-4a81-87ef-cd67b1cf289c",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "55",
+                                "trueText": "Sure!",
+                                "falseText": "No thanks."
+                            }
+                        },
+                        {
+                            "id": "998454a7-1604-4a96-8260-39dd4621f0f5",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "55"
+                            },
+                            "true": [
+                                {
+                                    "id": "60eb08ed-ce4c-407d-a740-e26490774e03",
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "This is where the\nmasters of the\nuniverse reside.",
-                                            "From here, they do\nimportant things\nto keep the...",
-                                            "... universe in\ncheck.",
-                                            "I'll teleport to\nthe head of the\nmasters.",
-                                            "Feel free to\nexplore. "
+                                            "These in the\nmiddle are\nsunflowers!",
+                                            "When they're fully\ngrown, they turn\ninto a sun!",
+                                            "Then, we place\nthem somewhere in\nthe universe!"
                                         ]
                                     }
                                 },
                                 {
-                                    "id": "8b65adad-2e4d-4339-b7f6-3a474610be11",
-                                    "command": "EVENT_ACTOR_HIDE",
+                                    "id": "f1b3c90b-2f49-4ec2-b143-a3ba473fa859",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "0d8b8b5e-ab67-457c-89dd-3229b6d5a6f2",
+                                    "command": "EVENT_TEXT",
                                     "args": {
-                                        "actorId": "e834fddc-5050-467c-9424-2e82c71ffe1b"
+                                        "text": "Aw, okay...\nEnjoy yourself!"
                                     }
                                 },
                                 {
-                                    "id": "5ec9774c-4162-4415-b45f-502a3fd23ffb",
+                                    "id": "960f4642-b360-4a4d-9613-6a7be0782a04",
                                     "command": "EVENT_END"
                                 }
                             ]
@@ -8050,6 +8815,1152 @@
                             "command": "EVENT_END"
                         }
                     ]
+                }
+            ],
+            "triggers": [],
+            "collisions": [
+                255,
+                255,
+                255,
+                255,
+                249,
+                9,
+                16,
+                128,
+                249,
+                9,
+                16,
+                240,
+                1,
+                8,
+                0,
+                240,
+                1,
+                8,
+                0,
+                240,
+                1,
+                8,
+                0,
+                240,
+                1,
+                0,
+                0,
+                240,
+                1,
+                0,
+                16,
+                128,
+                255,
+                15,
+                240,
+                255,
+                1,
+                0,
+                0,
+                128,
+                1,
+                0,
+                0,
+                128,
+                255,
+                15,
+                240,
+                255,
+                249,
+                8,
+                240,
+                249,
+                1,
+                8,
+                16,
+                128,
+                1,
+                8,
+                240,
+                249,
+                1,
+                8,
+                240,
+                249,
+                1,
+                0,
+                0,
+                128,
+                1,
+                0,
+                0,
+                128,
+                255,
+                15,
+                16,
+                128,
+                1,
+                0,
+                240,
+                255,
+                1,
+                0,
+                0,
+                128,
+                255,
+                15,
+                240,
+                255,
+                1,
+                8,
+                240,
+                191,
+                1,
+                8,
+                16,
+                128,
+                1,
+                0,
+                0,
+                128,
+                1,
+                0,
+                0,
+                128,
+                1,
+                8,
+                0,
+                128,
+                1,
+                8,
+                16,
+                128,
+                1,
+                8,
+                240,
+                191,
+                255,
+                15,
+                240,
+                255,
+                1,
+                0,
+                0,
+                128,
+                255,
+                255,
+                255,
+                255
+            ],
+            "script": [
+                {
+                    "id": "de5cffa5-53a9-42e3-8c0c-276d174a176d",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "This is where the\nmasters of the\nuniverse reside.",
+                            "From here, they do\nimportant things\nto keep the...",
+                            "... universe in\ncheck.",
+                            "I'm about to talk\nto the head of the\nChosen.",
+                            "Feel free to\nexplore. ",
+                            "I'll call you in\nsoon.",
+                            "Oh, by the way,\nI'm linked with\nyou...",
+                            "...\ntelepathically.\nThat's how...",
+                            "... I'm talking to\nyou without being\nthere!"
+                        ]
+                    }
+                },
+                {
+                    "id": "ba7c35a5-7233-41a3-93ed-ceeb175da720",
+                    "command": "EVENT_SWITCH_SCENE",
+                    "args": {
+                        "sceneId": "99eeeac8-07bc-4cb6-bee5-f86829bfb2ea",
+                        "x": 13,
+                        "y": 30,
+                        "direction": "",
+                        "fadeSpeed": "2"
+                    }
+                },
+                {
+                    "id": "97b72ba5-908f-473e-bb53-1e46d8b3c78a",
+                    "command": "EVENT_END"
+                }
+            ]
+        },
+        {
+            "id": "99eeeac8-07bc-4cb6-bee5-f86829bfb2ea",
+            "name": "Scene 25",
+            "backgroundId": "3929466c-9077-4253-a966-e0e5d42d0de5",
+            "x": 4636.96334636795,
+            "y": 124.30678701881001,
+            "width": 32,
+            "height": 32,
+            "actors": [
+                {
+                    "id": "5edd7a01-1d47-42c6-bba7-78a3b61e6625",
+                    "spriteSheetId": "40dcd163-9f72-4861-8131-b01eb9baa000",
+                    "x": 8,
+                    "y": 8,
+                    "movementType": "faceInteraction",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3"
+                },
+                {
+                    "id": "5fa6e979-1a16-4544-84b2-7ba82d278465",
+                    "spriteSheetId": "14bd2bd9-f3af-4cc2-aa82-fb52883c35ed",
+                    "x": 15,
+                    "y": 2,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "animate": true
+                }
+            ],
+            "triggers": [],
+            "collisions": [],
+            "script": [
+                {
+                    "id": "e4df9a5d-1fc6-40e2-be1a-0e8da9f0422f",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "Faith Anastasia\nForeman..."
+                    }
+                },
+                {
+                    "id": "8223fdca-2367-41b5-af75-7b7157eb553b",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "Y-yes?"
+                    }
+                },
+                {
+                    "id": "2e5299db-e146-4831-a3f6-c78dd8bb8c82",
+                    "command": "EVENT_CAMERA_MOVE_TO",
+                    "args": {
+                        "x": 6,
+                        "y": 1,
+                        "speed": "1"
+                    }
+                },
+                {
+                    "id": "23aa77b5-243f-4bb1-837b-8a0ab8a277d4",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "[REDACTED] here\nhas told me a lot\nabout you.",
+                            "Specifically...\nyour past."
+                        ]
+                    }
+                },
+                {
+                    "id": "ac697ee6-b798-4a32-9eb8-e47cc04466e7",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "6e376de0-a84b-4bd0-99f5-96cd8a1e7292",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "He h-has?"
+                    }
+                },
+                {
+                    "id": "0ad38898-9eb3-4846-a35e-6e87e5ca6d70",
+                    "command": "EVENT_CAMERA_MOVE_TO",
+                    "args": {
+                        "x": 6,
+                        "y": 1,
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "df123563-3ae1-4f6a-bbff-7a510b89bbf9",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Yes, he has.\n",
+                            "You're not the\nfirst human to be\nhere, but...",
+                            "You're a very\ninteresting case,\nMs. Foreman.",
+                            "Lying,\nmanipulating,\nuncaring...",
+                            "...rude,\nungrateful, and so\non.",
+                            "And yet, here you\nare.",
+                            "Standing before\nthe Highest Chosen\nin the universe."
+                        ]
+                    }
+                },
+                {
+                    "id": "fabfa4f2-7f6c-4f6b-bfc2-4a8967a51c93",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "55f289ac-9d79-48f3-bae3-bf2b57e4e760",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "What does this\nmean?"
+                    }
+                },
+                {
+                    "id": "1a1a2082-1ed6-4d71-86a2-bcfd9945d66a",
+                    "command": "EVENT_CAMERA_MOVE_TO",
+                    "args": {
+                        "x": 6,
+                        "y": 1,
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "91615747-a0d3-4286-991f-e27df6e73f8b",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "It means that you\nhave changed, Ms.\nForeman.",
+                            "Those Essences of\nGoodness changed\nyou.",
+                            "For the better.",
+                            "And for that, we\ncommend you."
+                        ]
+                    }
+                },
+                {
+                    "id": "761f2861-0504-410e-b81d-7b0573fcfd54",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "a584aaec-b521-4e0d-84cc-9f17689c00b0",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "Yay! I KNEW I felt\ndifferent!"
+                    }
+                },
+                {
+                    "id": "243de369-a05a-4f51-bc0d-64fa81adaa62",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "What's even more\ncommendable is\nthat...",
+                            "... you did it all\non your own."
+                        ]
+                    }
+                },
+                {
+                    "id": "7ffdca6c-cbd2-4440-b722-c7757cc5cdd8",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "5719df7c-7718-4261-962a-072d103da101",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "What do you mean?\nJeff helped me."
+                    }
+                },
+                {
+                    "id": "5020f53f-f2c1-4abd-9517-b9f4d6f8e9f3",
+                    "command": "EVENT_CAMERA_MOVE_TO",
+                    "args": {
+                        "x": 6,
+                        "y": 1,
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "dadfde82-14d1-448a-9028-daaa1a3aa3e0",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Faith...",
+                            "Your will is what\ncaused you to\nchange.",
+                            "You realized your\nown faults... ",
+                            "... and internally\nchanged. By\nyourself."
+                        ]
+                    }
+                },
+                {
+                    "id": "b24cd96e-f1d9-480d-b398-b8f989e46e3c",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "d2d48308-9600-41df-8d2e-13f48d782db8",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "I don't get it..."
+                    }
+                },
+                {
+                    "id": "afea2399-7aac-4cc4-88cb-1ab791c2b0f3",
+                    "command": "EVENT_CAMERA_MOVE_TO",
+                    "args": {
+                        "x": 6,
+                        "y": 1,
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "9a421716-dc7f-4d13-a9d1-790d8ab7b949",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Faith...",
+                            "The Essences were\nfake."
+                        ]
+                    }
+                },
+                {
+                    "id": "1aa27f93-4f12-4519-b7c7-04e3577a9e54",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "59d8e306-6187-4564-a55a-52b3b895a850",
+                    "command": "EVENT_ACTOR_EMOTE",
+                    "args": {
+                        "actorId": "player",
+                        "emoteId": 0
+                    }
+                },
+                {
+                    "id": "d6cdfc72-8f8d-4bd7-a3a6-d9468d29e7b6",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "WHAT?"
+                    }
+                },
+                {
+                    "id": "f8ec53b2-a162-40a9-a6b2-de35ff01e78a",
+                    "command": "EVENT_CAMERA_MOVE_TO",
+                    "args": {
+                        "x": 6,
+                        "y": 1,
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "2162d0a2-b77f-4578-b0ab-f1afa39c8656",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "The Essences did\nnothing. They were\njust things to..",
+                            "... push you in\nthe right\ndirection.",
+                            "The potential was\ninside you all\nalong.",
+                            "All it takes is a\nsingle push."
+                        ]
+                    }
+                },
+                {
+                    "id": "61a93f38-3a02-4e98-94c6-8f83b0932df4",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "2"
+                    }
+                },
+                {
+                    "id": "f569d626-cb30-4495-b2d1-efaad6e07f08",
+                    "command": "EVENT_ACTOR_EMOTE",
+                    "args": {
+                        "actorId": "player",
+                        "emoteId": "3"
+                    }
+                },
+                {
+                    "id": "00822f70-0ef6-4622-b944-bf7bc231d17b",
+                    "command": "EVENT_CAMERA_MOVE_TO",
+                    "args": {
+                        "x": 6,
+                        "y": 1,
+                        "speed": "0",
+                        "__collapse": false
+                    }
+                },
+                {
+                    "id": "0e170cb5-5212-4ca7-be02-c7323f0c4fd4",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "Faith... is\neverything okay?"
+                    }
+                },
+                {
+                    "id": "3e4cb413-a4eb-4991-8ca9-c17a4f9e4494",
+                    "command": "EVENT_CAMERA_LOCK",
+                    "args": {
+                        "speed": "0"
+                    }
+                },
+                {
+                    "id": "15fb7853-5e3d-457d-a246-ef421044c559",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Yeah, I just...",
+                            "It's a lot, you\nknow?",
+                            "But... it is good\nto know I did it\non my own.",
+                            "So, what's next?\nIs it over?"
+                        ]
+                    }
+                },
+                {
+                    "id": "c6b87686-6fe2-4159-8a06-0cb35188c5ea",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "Yes and no. Your\nmain quest is\nover.",
+                            "However, that\ndoesn't mean\nyou're done.",
+                            "Go out, and use\nyour newfound\ngoodness...",
+                            "... to help\nothers. Be the\ndifference.",
+                            "Be the change.",
+                            "You have a\nbeautiful soul,\nFaith.",
+                            "We'll be sure to\nremember it.",
+                            "Farewell.... for\nnow."
+                        ]
+                    }
+                },
+                {
+                    "id": "f7bb2fda-03bf-499a-a5ff-e9d71546c102",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "For now? Wait,\nwha-"
+                    }
+                },
+                {
+                    "id": "cd46e979-bf1b-4159-b892-83e4f8eff017",
+                    "command": "EVENT_SWITCH_SCENE",
+                    "args": {
+                        "sceneId": "1a66271f-613e-4768-9fc2-dc56d1f53bce",
+                        "x": 6,
+                        "y": 11,
+                        "direction": "down",
+                        "fadeSpeed": "2"
+                    }
+                },
+                {
+                    "id": "147a7690-91df-419d-acd6-19067b94f74f",
+                    "command": "EVENT_END"
+                }
+            ]
+        },
+        {
+            "id": "1a66271f-613e-4768-9fc2-dc56d1f53bce",
+            "name": "Scene 26",
+            "backgroundId": "6fad1892-bcb2-4924-bd1c-1e4d03dfeabb",
+            "x": 4887.332107632092,
+            "y": 427.6949447073525,
+            "width": 20,
+            "height": 18,
+            "actors": [
+                {
+                    "id": "052a484c-565a-4a7a-a34b-4d6f82acf702",
+                    "spriteSheetId": "40dcd163-9f72-4861-8131-b01eb9baa000",
+                    "x": 11,
+                    "y": 9,
+                    "movementType": "faceInteraction",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "3b098685-b03f-4414-91c4-7d05bcfe7978",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "66",
+                                "__collapseElse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "29480ffe-0d2b-4ad4-a274-bec9c4fe1bf8",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "5855f464-3071-484f-9ed1-15d41dfdb422",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "So, it's over."
+                                    }
+                                },
+                                {
+                                    "id": "ea69a5c4-dcae-4d55-8566-16af9bc39c7c",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "No, Faith. It's\nnot."
+                                    }
+                                },
+                                {
+                                    "id": "fe18164c-b968-4679-900e-9cafc92a056a",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Well, is it ok if\nI just take a\nbreak for a...",
+                                            "... little? "
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "cf0d75cb-487e-4582-9f7c-7d2956e5d914",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Yes, you can. You\ndeserve it. ",
+                                            "Caring for\nyourself is as\nimportant as...",
+                                            "... caring for\nothers."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "f6e064b8-0f77-4bed-a19d-c63aa93256ae",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9b8ca7f2-9aa1-47ee-90b7-c693d89ec406",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "67",
+                                "trueText": "What about you?",
+                                "falseText": "Thank you."
+                            }
+                        },
+                        {
+                            "id": "ecfc7894-7ce6-4de3-9456-c64f6c41cef5",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "67",
+                                "__collapse": false,
+                                "__collapseElse": false
+                            },
+                            "true": [
+                                {
+                                    "id": "bb362ec8-df82-428c-91ac-b113672b9485",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Well, it's time\nfor me to find\nanother.",
+                                            "However, I'm sure\nthey won't be as\nunique as you."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "05592649-6060-4ce7-b416-0cace9952c85",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "68",
+                                        "trueText": "Oh, stop.",
+                                        "falseText": "I'll miss you."
+                                    }
+                                },
+                                {
+                                    "id": "631e3cd5-1478-43fc-bbd0-7ef23dfb4722",
+                                    "command": "EVENT_IF_TRUE",
+                                    "args": {
+                                        "variable": "68",
+                                        "__collapseElse": true,
+                                        "__collapse": true
+                                    },
+                                    "true": [
+                                        {
+                                            "id": "d8e20410-2e80-4093-80ad-a405a0ad41ec",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Oh, come on. You\nknow it's true. ",
+                                                    "The fact that\ngoodness was in\nyou all along.",
+                                                    "I don't know, it's\ninspiring.",
+                                                    "Like, maybe the\nsame can help my\nbrother too."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "65b034d7-1fc5-42a3-9e1d-22594c9381ae",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": "I'm sure\neverything will be\nokay."
+                                            }
+                                        },
+                                        {
+                                            "id": "dc07d439-6c29-433c-ab61-76f1c8e213af",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Thanks, Faith. You\ntoo. ",
+                                                    "Goodbye, friend."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "8d0708d7-636e-4977-99e7-a54ba5f488a5",
+                                            "command": "EVENT_END"
+                                        }
+                                    ],
+                                    "false": [
+                                        {
+                                            "id": "6f7cfa1b-227a-48ce-9032-48694bcf6b1e",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "I'll miss you too,\nFaith.",
+                                                    "You helped me\nlearn something\ntoo.",
+                                                    "Perhaps anyone can\nbe changed.",
+                                                    "Good luck out\nthere, Faith.",
+                                                    "I'm sure we'll\nmeet again.",
+                                                    "You're impossible\nto forget.",
+                                                    "Goodbye, friend."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "f22c7e86-d47d-4f6b-a91f-4ac82dcc0131",
+                                            "command": "EVENT_END"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "5ec7ee29-3ce9-4e01-bbd5-e13ee1d5b65a",
+                                    "command": "EVENT_ACTOR_HIDE",
+                                    "args": {
+                                        "actorId": "052a484c-565a-4a7a-a34b-4d6f82acf702"
+                                    }
+                                },
+                                {
+                                    "id": "ee5f804a-4d5c-48b4-84a9-b679490767a9",
+                                    "command": "EVENT_SET_TRUE",
+                                    "args": {
+                                        "variable": "69"
+                                    }
+                                },
+                                {
+                                    "id": "8ddbf942-bd1c-4f1e-85ff-318eb73f16cc",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "3bb97fd6-621a-43bf-a7d9-f41cc4f1f497",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "No, thank you,\nFaith.",
+                                            "You helped give me\nhope for others.",
+                                            "If you could\nchange, then\nanyone can.",
+                                            "Oh, no offense."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "ed074d69-21ef-471b-bc3e-99d376589554",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Oh, haha. Anyways,\nthank you, Jeff.",
+                                            "If it weren't for\nyou, I would've\nbeen a jerk.",
+                                            "And, uh, I\nprobably would've\nhated myself."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "7f361722-c6e6-44ea-8c36-a3b7a6a9809b",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "It's what I do.\nBut, this was\nspecial.",
+                                            "See you on the\nother side, Faith."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "8c01ff14-196e-421a-a72f-83c46f3b70af",
+                                    "command": "EVENT_ACTOR_HIDE",
+                                    "args": {
+                                        "actorId": "052a484c-565a-4a7a-a34b-4d6f82acf702"
+                                    }
+                                },
+                                {
+                                    "id": "eef15df8-615c-4c3d-b1af-70def801746c",
+                                    "command": "EVENT_SET_TRUE",
+                                    "args": {
+                                        "variable": "69"
+                                    }
+                                },
+                                {
+                                    "id": "888d430c-a816-4dd7-96d9-72d090197185",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "c093bbc5-598d-48d6-a3b1-56aae2b2bc47",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "69"
+                            },
+                            "true": [
+                                {
+                                    "id": "a3d663f6-6277-4ce0-8245-ca0c2682c8ec",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "(Your journey is\nover. With your\nnewfound...",
+                                            "... goodness, you\ncan make a\ndifference for..",
+                                            "... others!",
+                                            "But now, you must\nrest. Exit the\ncave...",
+                                            "... and go home!)"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "9217e1f1-26bd-4695-a142-06a646d2f57b",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "7a20151c-a30a-4497-8a2c-8d3682190b75",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "c0371b13-46d5-4232-aa18-2c50632652ca",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "triggers": [
+                {
+                    "id": "20d265ac-b956-4874-904d-51ed80c596de",
+                    "x": 9,
+                    "y": 17,
+                    "width": 2,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "90615944-9359-4d29-bc3c-91dea7588c4e",
+                            "command": "EVENT_IF_FALSE",
+                            "args": {
+                                "variable": "69"
+                            },
+                            "true": [
+                                {
+                                    "id": "3147271c-7e59-460b-a2b0-46d014480d49",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "I should say bye\nto Jeff."
+                                    }
+                                },
+                                {
+                                    "id": "fb641022-8908-46fc-b3ae-eb453c0ef341",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "0cf4845d-efe1-4c33-9c26-35d58ab0ec27",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "a78589e5-44d9-4bcb-9926-eb29d1218fe2",
+                                        "x": 24,
+                                        "y": 9,
+                                        "direction": "down",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "82df2de8-511a-4c68-abfb-b194e1510de9",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3d8aa814-a610-46c3-b37d-8a877a2f74c5",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                224,
+                255,
+                127,
+                2,
+                0,
+                36,
+                0,
+                64,
+                254,
+                255,
+                39,
+                0,
+                64,
+                2,
+                0,
+                36,
+                0,
+                64,
+                2,
+                0,
+                36,
+                0,
+                64,
+                2,
+                0,
+                36,
+                0,
+                64,
+                2,
+                0,
+                36,
+                0,
+                64,
+                2,
+                0,
+                36,
+                0,
+                64,
+                254,
+                249,
+                7,
+                0,
+                0
+            ],
+            "script": [
+                {
+                    "id": "c0371b13-46d5-4232-aa18-2c50632652ca",
+                    "command": "EVENT_END"
+                }
+            ]
+        },
+        {
+            "id": "a78589e5-44d9-4bcb-9926-eb29d1218fe2",
+            "name": "Scene 27",
+            "backgroundId": "1b7fa267-d716-40f0-b0d0-f4f966610e07",
+            "x": 4878.884416454562,
+            "y": 644.8683481405569,
+            "width": 32,
+            "height": 32,
+            "actors": [
+                {
+                    "id": "d4a14796-6710-4441-be92-9caa065a9a22",
+                    "spriteSheetId": "3939e8d2-3987-4a22-953e-f1d82134eccf",
+                    "x": 25,
+                    "y": 14,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "49d0159d-3f40-4ace-940b-8966daff20ac",
+                            "command": "EVENT_ACTOR_PUSH",
+                            "args": {
+                                "continue": false
+                            }
+                        },
+                        {
+                            "id": "150f7b09-2a66-48e7-827e-46f088e5c00f",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "What the? What's\nthis?"
+                            }
+                        },
+                        {
+                            "id": "3d8aa814-a610-46c3-b37d-8a877a2f74c5",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "triggers": [
+                {
+                    "id": "f95e0633-3bb6-4843-a9a2-08fc2e7483a4",
+                    "x": 25,
+                    "y": 14,
+                    "width": 2,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "4a10c50b-8ebe-49a0-8544-dc7c694d4117",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "1decc9a2-395f-49c0-bdd0-b5a05c4414ef",
+                                "x": 15,
+                                "y": 29,
+                                "direction": "up",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "f53e9d76-4c4f-4e0b-90ff-09fc3e984b6d",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                252,
+                193,
+                7,
+                0,
+                4,
+                33,
+                4,
+                0,
+                2,
+                33,
+                12,
+                0,
+                2,
+                33,
+                16,
+                0,
+                2,
+                51,
+                224,
+                127,
+                2,
+                0,
+                0,
+                64,
+                2,
+                0,
+                0,
+                64,
+                2,
+                0,
+                0,
+                64,
+                242,
+                0,
+                0,
+                64,
+                146,
+                0,
+                0,
+                0,
+                210,
+                0,
+                0,
+                64,
+                98,
+                0,
+                0,
+                64,
+                2,
+                0,
+                0,
+                64,
+                2,
+                128,
+                255,
+                79,
+                2,
+                248,
+                0,
+                88,
+                2,
+                14,
+                0,
+                80,
+                2,
+                2,
+                0,
+                80,
+                2,
+                14,
+                0,
+                80,
+                2,
+                48,
+                0,
+                88,
+                2,
+                192,
+                255,
+                71,
+                2,
+                0,
+                0,
+                64,
+                2,
+                0,
+                0,
+                64,
+                2,
+                0,
+                0,
+                64,
+                2,
+                0,
+                0,
+                64,
+                254,
+                255,
+                255,
+                127,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1decc9a2-395f-49c0-bdd0-b5a05c4414ef",
+            "name": "Scene 28",
+            "backgroundId": "93b0ae81-3951-437c-b73e-bbb4b4af0cd6",
+            "x": 5101.519736426562,
+            "y": 362.2342517395968,
+            "width": 32,
+            "height": 32,
+            "actors": [
+                {
+                    "id": "f3d92db2-405d-4dda-98f9-3c29def3c8a9",
+                    "spriteSheetId": "3e6ecd83-cbe2-4071-963f-933daddc27e8",
+                    "x": 15,
+                    "y": 4,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "animate": true
                 }
             ],
             "triggers": [],
@@ -8065,23 +9976,23 @@
                 0,
                 0,
                 0,
-                112,
                 0,
                 0,
                 0,
-                112,
                 0,
                 0,
                 0,
-                112,
                 0,
                 0,
                 0,
-                112,
                 0,
                 0,
                 0,
-                112,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0,
                 0,
                 0,
@@ -8190,7 +10101,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1571718735711
+            "_v": 1571998965642
         }
     ]
 }
